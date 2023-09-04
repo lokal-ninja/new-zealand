@@ -1,6 +1,6 @@
 ---
 title: East Tamaki
 url: /east-tamaki/
-latitude: -36.927
-longitude: 174.891
+latitude: -36.937
+longitude: 174.903
 ---
