@@ -1,5 +1,5 @@
 ---
 title: "Macpac"
-url: /christchurch/macpac/
+url: /christchurch/macpac-colombo-street/
 shop: outdoor
 ---

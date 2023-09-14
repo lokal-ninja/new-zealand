@@ -1,5 +1,5 @@
 ---
 title: "Jalaram Foodmart"
-url: /hamilton/jalaram-foodmart/
+url: /hamilton/jalaram-foodmart-massey-street/
 shop: convenience
 ---

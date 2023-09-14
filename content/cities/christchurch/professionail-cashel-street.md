@@ -1,5 +1,5 @@
 ---
 title: "ProfessioNAIL"
-url: /christchurch/professionail/
+url: /christchurch/professionail-cashel-street/
 shop: beauty
 ---

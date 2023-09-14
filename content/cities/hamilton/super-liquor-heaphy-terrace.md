@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
-url: /hamilton/super-liquor/
+url: /hamilton/super-liquor-heaphy-terrace/
 shop: alcohol
 ---

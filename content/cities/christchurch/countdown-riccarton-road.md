@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
-url: /christchurch/countdown/
+url: /christchurch/countdown-riccarton-road/
 shop: supermarket
 ---

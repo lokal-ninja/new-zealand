@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
-url: /christchurch/super-liquor/
+url: /christchurch/super-liquor-waterman-place/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OPSM"
-url: /christchurch/opsm/
+url: /christchurch/opsm-cashel-street/
 shop: optician
 ---

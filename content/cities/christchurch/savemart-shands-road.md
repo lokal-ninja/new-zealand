@@ -1,5 +1,5 @@
 ---
 title: "SaveMart"
-url: /christchurch/savemart/
+url: /christchurch/savemart-shands-road/
 shop: clothes
 ---

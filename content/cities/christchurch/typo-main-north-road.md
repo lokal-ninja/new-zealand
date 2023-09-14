@@ -1,5 +1,5 @@
 ---
 title: "Typo"
-url: /christchurch/typo/
+url: /christchurch/typo-main-north-road/
 shop: office supplies
 ---

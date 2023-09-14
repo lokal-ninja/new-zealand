@@ -1,5 +1,5 @@
 ---
 title: "EB Games"
-url: /hamilton/eb-games/
+url: /hamilton/eb-games-the-base-parade/
 shop: video games
 ---

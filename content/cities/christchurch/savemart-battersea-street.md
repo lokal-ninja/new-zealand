@@ -1,5 +1,5 @@
 ---
 title: "SaveMart"
-url: /christchurch/savemart/
+url: /christchurch/savemart-battersea-street/
 shop: charity
 ---

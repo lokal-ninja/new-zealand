@@ -1,5 +1,5 @@
 ---
 title: "Metromart"
-url: /christchurch/metromart/
+url: /christchurch/metromart-lincoln-road/
 shop: convenience
 ---

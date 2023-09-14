@@ -1,5 +1,5 @@
 ---
 title: "PlaceMakers"
-url: /christchurch/placemakers/
+url: /christchurch/placemakers-cranford-street/
 shop: doityourself
 ---

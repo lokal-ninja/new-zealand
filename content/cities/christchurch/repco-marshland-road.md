@@ -1,5 +1,5 @@
 ---
 title: "Repco"
-url: /christchurch/repco/
+url: /christchurch/repco-marshland-road/
 shop: car parts
 ---

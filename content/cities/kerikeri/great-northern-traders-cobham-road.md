@@ -1,5 +1,5 @@
 ---
 title: "Great Northern Traders"
-url: /kerikeri/great-northern-traders/
+url: /kerikeri/great-northern-traders-cobham-road/
 shop: charity
 ---

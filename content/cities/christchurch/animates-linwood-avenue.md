@@ -1,5 +1,5 @@
 ---
 title: "Animates"
-url: /christchurch/animates/
+url: /christchurch/animates-linwood-avenue/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oderings"
-url: /christchurch/oderings/
+url: /christchurch/oderings-stourbridge-street/
 shop: garden centre
 ---

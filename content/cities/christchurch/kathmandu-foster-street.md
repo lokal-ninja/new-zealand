@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
-url: /christchurch/kathmandu/
+url: /christchurch/kathmandu-foster-street/
 shop: outdoor
 ---

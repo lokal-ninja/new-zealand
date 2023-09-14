@@ -1,5 +1,5 @@
 ---
 title: "PlaceMakers"
-url: /wellington/placemakers/
+url: /wellington/placemakers-hutt-road/
 shop: doityourself
 ---

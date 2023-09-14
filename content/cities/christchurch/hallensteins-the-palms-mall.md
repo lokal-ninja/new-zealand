@@ -1,5 +1,5 @@
 ---
 title: "Hallensteins"
-url: /christchurch/hallensteins/
+url: /christchurch/hallensteins-the-palms-mall/
 shop: clothes
 ---

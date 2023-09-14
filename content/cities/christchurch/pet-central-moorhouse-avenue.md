@@ -1,5 +1,5 @@
 ---
 title: "Pet Central"
-url: /christchurch/pet-central/
+url: /christchurch/pet-central-moorhouse-avenue/
 shop: pet
 ---

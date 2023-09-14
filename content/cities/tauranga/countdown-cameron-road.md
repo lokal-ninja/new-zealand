@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
-url: /tauranga/countdown/
+url: /tauranga/countdown-cameron-road/
 shop: supermarket
 ---

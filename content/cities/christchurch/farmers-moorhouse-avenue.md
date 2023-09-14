@@ -1,5 +1,5 @@
 ---
 title: "Farmers"
-url: /christchurch/farmers/
+url: /christchurch/farmers-moorhouse-avenue/
 shop: department store
 ---
