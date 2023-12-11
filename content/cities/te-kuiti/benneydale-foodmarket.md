@@ -1,5 +1,5 @@
 ---
 title: "Benneydale Foodmarket"
-url: /benneydale/benneydale-foodmarket/
+url: /te-kuiti/benneydale-foodmarket/
 shop: convenience
 ---
