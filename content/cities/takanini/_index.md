@@ -1,6 +1,6 @@
 ---
 title: Takanini
 url: /takanini/
-latitude: -37.034
-longitude: 174.909
+latitude: -37.039
+longitude: 174.914
 ---

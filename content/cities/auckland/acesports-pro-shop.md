@@ -1,5 +1,5 @@
 ---
 title: "AceSports Pro Shop"
-url: /manukau/acesports-pro-shop/
+url: /auckland/acesports-pro-shop/
 shop: sports
 ---

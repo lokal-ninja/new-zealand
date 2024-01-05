@@ -1,5 +1,5 @@
 ---
 title: "D.H Supermarket"
-url: /manurewa/d-h-supermarket/
+url: /auckland/d-h-supermarket/
 shop: greengrocer
 ---
