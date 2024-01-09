@@ -1,11 +1,11 @@
-id: 2170789077
-type: node
-latitude: -43.50566
-longitude: 172.66453
-postcode: "8061"
+id: 101486484
+type: way
+latitude: -43.55709
+longitude: 172.70209
+postcode: "8023"
 city: Christchurch
-street: "Marshland Road"
-housenumber: 
-phone: "+64 3 375 7003"
+street: "Ferry Road"
+housenumber: 999
+phone: "+64 3 373 6520"
 opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.countdown.co.nz/"
+website: "https://www.countdown.co.nz"
