@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
-url: /christchurch/bunnings-warehouse-marshland-road/
+url: /waipapa/bunnings-warehouse/
 shop: doityourself
 ---
