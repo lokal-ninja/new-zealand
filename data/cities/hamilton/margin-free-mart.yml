@@ -7,5 +7,5 @@ city: Hamilton
 street: "Commerce Street"
 housenumber: 123
 phone: ""
-opening_hours: "Mo,Tu,We,Th,Fr,Mo: 07:00-18:30; Sa: 07:00-18:00; Su: 09:00-17:00"
+opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 09:00-17:00"
 website: ""
