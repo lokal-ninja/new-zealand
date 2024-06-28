@@ -1,6 +1,6 @@
 ---
 title: Queenstown
 url: /queenstown/
-latitude: -45.031
-longitude: 168.66
+latitude: -45.032
+longitude: 168.661
 ---
