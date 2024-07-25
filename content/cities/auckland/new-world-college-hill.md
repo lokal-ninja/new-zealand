@@ -1,5 +1,5 @@
 ---
 title: "New World"
-url: /auckland/new-world-clonbern-road/
+url: /auckland/new-world-college-hill/
 shop: supermarket
 ---
