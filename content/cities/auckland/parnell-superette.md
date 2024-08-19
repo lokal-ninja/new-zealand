@@ -1,5 +1,5 @@
 ---
 title: "Parnell Superette"
-url: /waitemata/parnell-superette/
+url: /auckland/parnell-superette/
 shop: convenience
 ---
