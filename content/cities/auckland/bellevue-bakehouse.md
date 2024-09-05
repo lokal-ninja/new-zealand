@@ -1,5 +1,5 @@
 ---
 title: "Bellevue Bakehouse"
 url: /auckland/bellevue-bakehouse/
-shop: bakery
+shop: Bäckerei
 ---

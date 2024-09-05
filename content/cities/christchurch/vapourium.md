@@ -1,5 +1,5 @@
 ---
 title: "vapourium"
 url: /christchurch/vapourium/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shosha"
 url: /kaiapoi/shosha/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

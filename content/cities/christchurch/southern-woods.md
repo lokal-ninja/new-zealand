@@ -1,5 +1,5 @@
 ---
 title: "Southern Woods"
 url: /christchurch/southern-woods/
-shop: garden centre
+shop: Garten-Center
 ---

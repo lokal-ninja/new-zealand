@@ -1,5 +1,5 @@
 ---
 title: "BedsRus"
 url: /christchurch/bedsrus/
-shop: bed
+shop: Betten
 ---

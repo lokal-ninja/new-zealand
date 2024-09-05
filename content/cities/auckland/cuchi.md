@@ -1,5 +1,5 @@
 ---
 title: "Cuchi"
 url: /auckland/cuchi/
-shop: furniture
+shop: Möbel
 ---

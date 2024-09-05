@@ -1,5 +1,5 @@
 ---
 title: "Poppies"
 url: /auckland/poppies/
-shop: books
+shop: Bücher
 ---

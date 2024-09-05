@@ -1,5 +1,5 @@
 ---
 title: "Gabriels Fashion"
 url: /cambridge/gabriels-fashion/
-shop: clothes
+shop: Kleidung
 ---

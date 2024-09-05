@@ -1,5 +1,5 @@
 ---
 title: "Decant Wines"
 url: /christchurch/decant-wines/
-shop: wine
+shop: Wein
 ---

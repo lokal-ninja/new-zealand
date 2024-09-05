@@ -1,5 +1,5 @@
 ---
 title: "Black Cat"
 url: /auckland/black-cat/
-shop: clothes
+shop: Kleidung
 ---

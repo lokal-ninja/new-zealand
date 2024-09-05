@@ -1,5 +1,5 @@
 ---
 title: "Spotlight"
 url: /paraparaumu/spotlight/
-shop: fabric
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brows Defined"
 url: /christchurch/brows-defined/
-shop: beauty
+shop: Kosmetik
 ---

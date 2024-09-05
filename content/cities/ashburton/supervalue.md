@@ -1,5 +1,5 @@
 ---
 title: "SuperValue"
 url: /ashburton/supervalue/
-shop: supermarket
+shop: Supermarkt
 ---

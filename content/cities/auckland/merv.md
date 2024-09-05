@@ -1,5 +1,5 @@
 ---
 title: "Merv"
 url: /auckland/merv/
-shop: sports
+shop: Sport
 ---

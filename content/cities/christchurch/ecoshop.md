@@ -1,5 +1,5 @@
 ---
 title: "EcoShop"
 url: /christchurch/ecoshop/
-shop: charity
+shop: Gebrauchtwaren
 ---

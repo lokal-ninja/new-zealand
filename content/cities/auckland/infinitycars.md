@@ -1,5 +1,5 @@
 ---
 title: "InfinityCars"
 url: /auckland/infinitycars/
-shop: car
+shop: Autohaus
 ---

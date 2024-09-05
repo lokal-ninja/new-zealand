@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /kaikoura/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /nelson/kathmandu/
-shop: outdoor
+shop: Outdoor
 ---

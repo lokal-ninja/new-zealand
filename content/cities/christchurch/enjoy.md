@@ -1,5 +1,5 @@
 ---
 title: "Enjoy"
 url: /christchurch/enjoy/
-shop: gift
+shop: Andenken
 ---

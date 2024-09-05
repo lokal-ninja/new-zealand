@@ -1,5 +1,5 @@
 ---
 title: "Tyretech"
 url: /auckland/tyretech/
-shop: tyres
+shop: Reifen
 ---

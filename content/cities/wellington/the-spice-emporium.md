@@ -1,5 +1,5 @@
 ---
 title: "The Spice Emporium"
 url: /wellington/the-spice-emporium/
-shop: supermarket
+shop: Supermarkt
 ---

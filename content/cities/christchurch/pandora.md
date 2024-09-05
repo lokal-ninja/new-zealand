@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /christchurch/pandora/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Factory"
 url: /christchurch/food-factory/
-shop: supermarket
+shop: Supermarkt
 ---

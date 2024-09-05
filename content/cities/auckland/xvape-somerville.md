@@ -1,5 +1,5 @@
 ---
 title: "Xvape Somerville"
 url: /auckland/xvape-somerville/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

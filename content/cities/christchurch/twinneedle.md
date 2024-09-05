@@ -1,5 +1,5 @@
 ---
 title: "TwinNeedle"
 url: /christchurch/twinneedle/
-shop: outdoor
+shop: Outdoor
 ---

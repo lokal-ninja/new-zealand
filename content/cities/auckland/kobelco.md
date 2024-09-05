@@ -1,5 +1,5 @@
 ---
 title: "Kobelco"
 url: /auckland/kobelco/
-shop: shop
+shop: Allgemein
 ---

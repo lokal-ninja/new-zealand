@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /matamata/toyworld/
-shop: toys
+shop: Spielzeug
 ---

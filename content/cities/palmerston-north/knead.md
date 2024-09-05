@@ -1,5 +1,5 @@
 ---
 title: "Knead"
 url: /palmerston-north/knead/
-shop: bakery
+shop: Bäckerei
 ---

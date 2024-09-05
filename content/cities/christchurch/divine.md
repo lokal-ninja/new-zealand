@@ -1,5 +1,5 @@
 ---
 title: "Divine"
 url: /christchurch/divine/
-shop: bakery
+shop: Bäckerei
 ---

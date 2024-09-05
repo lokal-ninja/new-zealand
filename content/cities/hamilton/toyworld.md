@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /hamilton/toyworld/
-shop: toys
+shop: Spielzeug
 ---

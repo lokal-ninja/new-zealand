@@ -1,5 +1,5 @@
 ---
 title: "ITstuffed"
 url: /christchurch/itstuffed/
-shop: computer
+shop: Computer
 ---

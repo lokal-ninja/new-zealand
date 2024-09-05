@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /queenstown/woolworths/
-shop: supermarket
+shop: Supermarkt
 ---

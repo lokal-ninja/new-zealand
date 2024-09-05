@@ -1,5 +1,5 @@
 ---
 title: "Batenburgs"
 url: /auckland/batenburgs/
-shop: gift
+shop: Andenken
 ---

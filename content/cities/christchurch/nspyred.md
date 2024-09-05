@@ -1,5 +1,5 @@
 ---
 title: "NSpyred"
 url: /christchurch/nspyred/
-shop: hairdresser
+shop: Friseur
 ---

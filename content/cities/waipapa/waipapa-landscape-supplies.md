@@ -1,5 +1,5 @@
 ---
 title: "Waipapa Landscape Supplies"
 url: /waipapa/waipapa-landscape-supplies/
-shop: garden centre
+shop: Garten-Center
 ---

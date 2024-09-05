@@ -1,5 +1,5 @@
 ---
 title: "Briscoes"
 url: /nelson/briscoes/
-shop: houseware
+shop: Haushaltsartikel
 ---

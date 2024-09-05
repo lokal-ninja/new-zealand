@@ -1,5 +1,5 @@
 ---
 title: "Wairau Hair Design"
 url: /auckland/wairau-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

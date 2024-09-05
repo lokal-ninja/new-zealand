@@ -1,5 +1,5 @@
 ---
 title: "Urban Herbalist"
 url: /auckland/urban-herbalist/
-shop: shop
+shop: Allgemein
 ---

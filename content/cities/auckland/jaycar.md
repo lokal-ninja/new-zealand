@@ -1,5 +1,5 @@
 ---
 title: "Jaycar"
 url: /auckland/jaycar/
-shop: electronics
+shop: Elektronik
 ---

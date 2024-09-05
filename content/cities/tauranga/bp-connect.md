@@ -1,5 +1,5 @@
 ---
 title: "BP Connect"
 url: /tauranga/bp-connect/
-shop: convenience
+shop: Lebensmittel
 ---

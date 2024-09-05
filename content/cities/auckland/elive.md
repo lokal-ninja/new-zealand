@@ -1,5 +1,5 @@
 ---
 title: "Elive"
 url: /auckland/elive/
-shop: computer
+shop: Computer
 ---

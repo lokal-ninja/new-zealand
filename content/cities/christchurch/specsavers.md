@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /christchurch/specsavers/
-shop: optician
+shop: Optiker
 ---

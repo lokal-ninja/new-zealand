@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /whanganui/specsavers/
-shop: optician
+shop: Optiker
 ---

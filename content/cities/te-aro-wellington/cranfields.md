@@ -1,5 +1,5 @@
 ---
 title: "Cranfields"
 url: /te-aro-wellington/cranfields/
-shop: gift
+shop: Andenken
 ---

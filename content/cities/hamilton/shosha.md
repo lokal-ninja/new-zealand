@@ -1,5 +1,5 @@
 ---
 title: "Shosha"
 url: /hamilton/shosha/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

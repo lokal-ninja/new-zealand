@@ -1,5 +1,5 @@
 ---
 title: "Blakeleys of Kaiapoi"
 url: /kaiapoi/blakeleys-of-kaiapoi/
-shop: furniture
+shop: Möbel
 ---

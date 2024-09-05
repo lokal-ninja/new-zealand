@@ -1,5 +1,5 @@
 ---
 title: "NOVO"
 url: /christchurch/novo/
-shop: shoes
+shop: Schuhe
 ---

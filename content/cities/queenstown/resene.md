@@ -1,5 +1,5 @@
 ---
 title: "Resene"
 url: /queenstown/resene/
-shop: paint
+shop: Farben
 ---

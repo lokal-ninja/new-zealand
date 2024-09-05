@@ -1,5 +1,5 @@
 ---
 title: "Sloanes"
 url: /christchurch/sloanes/
-shop: hairdresser
+shop: Friseur
 ---

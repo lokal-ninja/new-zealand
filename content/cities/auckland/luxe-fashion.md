@@ -1,5 +1,5 @@
 ---
 title: "Luxe Fashion"
 url: /auckland/luxe-fashion/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SilverMoon"
 url: /christchurch/silvermoon/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GardenBarn"
 url: /masterton/gardenbarn-high-street/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /westport/toyworld/
-shop: toys
+shop: Spielzeug
 ---

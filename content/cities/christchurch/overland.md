@@ -1,5 +1,5 @@
 ---
 title: "Overland"
 url: /christchurch/overland/
-shop: shoes
+shop: Schuhe
 ---

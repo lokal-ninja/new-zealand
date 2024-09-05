@@ -1,5 +1,5 @@
 ---
 title: "Dotti"
 url: /christchurch/dotti/
-shop: clothes
+shop: Kleidung
 ---

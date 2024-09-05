@@ -1,5 +1,5 @@
 ---
 title: "Koru Garden"
 url: /auckland/koru-garden/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rip Curl"
 url: /tauranga/rip-curl/
-shop: clothes
+shop: Kleidung
 ---

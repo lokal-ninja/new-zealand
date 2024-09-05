@@ -1,5 +1,5 @@
 ---
 title: "PlaceMakers"
 url: /lower-hutt/placemakers/
-shop: doityourself
+shop: Baumarkt
 ---

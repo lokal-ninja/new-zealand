@@ -1,5 +1,5 @@
 ---
 title: "Back To Bed"
 url: /christchurch/back-to-bed/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welder"
 url: /christchurch/welder/
-shop: mall
+shop: Einkaufszentrum
 ---

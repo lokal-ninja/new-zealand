@@ -1,5 +1,5 @@
 ---
 title: "Floralessence"
 url: /auckland/floralessence/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /hamilton/ford/
-shop: car
+shop: Autohaus
 ---

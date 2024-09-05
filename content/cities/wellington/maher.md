@@ -1,5 +1,5 @@
 ---
 title: "Maher"
 url: /wellington/maher/
-shop: shoes
+shop: Schuhe
 ---

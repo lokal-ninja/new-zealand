@@ -1,5 +1,5 @@
 ---
 title: "Johnny Bigg"
 url: /christchurch/johnny-bigg/
-shop: clothes
+shop: Kleidung
 ---

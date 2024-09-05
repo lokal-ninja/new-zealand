@@ -1,5 +1,5 @@
 ---
 title: "Airscream"
 url: /hamilton/airscream/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

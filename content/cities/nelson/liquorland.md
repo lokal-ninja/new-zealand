@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /nelson/liquorland/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trek 'n' Travel"
 url: /hamilton/trek-n-travel/
-shop: outdoor
+shop: Outdoor
 ---

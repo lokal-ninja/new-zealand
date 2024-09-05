@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /johnsonville/toyworld/
-shop: toys
+shop: Spielzeug
 ---

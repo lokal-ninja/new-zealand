@@ -1,5 +1,5 @@
 ---
 title: "PB Tech"
 url: /auckland/pb-tech-wagener-place/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musgroves"
 url: /christchurch/musgroves/
-shop: doityourself
+shop: Baumarkt
 ---

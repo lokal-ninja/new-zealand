@@ -1,5 +1,5 @@
 ---
 title: "Logoland"
 url: /christchurch/logoland/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /lower-hutt/toyworld/
-shop: toys
+shop: Spielzeug
 ---

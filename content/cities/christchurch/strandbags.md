@@ -1,5 +1,5 @@
 ---
 title: "Strandbags"
 url: /christchurch/strandbags/
-shop: bag
+shop: Taschen & Koffer
 ---

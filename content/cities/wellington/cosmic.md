@@ -1,5 +1,5 @@
 ---
 title: "Cosmic"
 url: /wellington/cosmic/
-shop: esoteric
+shop: Esoterik
 ---

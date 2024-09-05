@@ -1,5 +1,5 @@
 ---
 title: "ReStore"
 url: /te-awamutu/restore/
-shop: charity
+shop: Gebrauchtwaren
 ---

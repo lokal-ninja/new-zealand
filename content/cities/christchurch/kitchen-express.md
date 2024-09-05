@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Express"
 url: /christchurch/kitchen-express/
-shop: kitchen
+shop: Küchen
 ---

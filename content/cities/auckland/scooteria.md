@@ -1,5 +1,5 @@
 ---
 title: "Scooteria"
 url: /auckland/scooteria/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glassons"
 url: /christchurch/glassons/
-shop: clothes
+shop: Kleidung
 ---

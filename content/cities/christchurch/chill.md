@@ -1,5 +1,5 @@
 ---
 title: "Chill"
 url: /christchurch/chill/
-shop: bicycle
+shop: Fahrrad
 ---

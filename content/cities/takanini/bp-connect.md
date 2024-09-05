@@ -1,5 +1,5 @@
 ---
 title: "BP Connect"
 url: /takanini/bp-connect/
-shop: convenience
+shop: Lebensmittel
 ---

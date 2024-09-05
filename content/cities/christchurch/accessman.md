@@ -1,5 +1,5 @@
 ---
 title: "Accessman"
 url: /christchurch/accessman/
-shop: tools
+shop: Werkzeuge
 ---

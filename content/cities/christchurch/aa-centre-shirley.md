@@ -1,5 +1,5 @@
 ---
 title: "AA Centre - Shirley"
 url: /christchurch/aa-centre-shirley/
-shop: shop
+shop: Allgemein
 ---

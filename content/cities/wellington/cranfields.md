@@ -1,5 +1,5 @@
 ---
 title: "Cranfields"
 url: /wellington/cranfields/
-shop: gift
+shop: Andenken
 ---

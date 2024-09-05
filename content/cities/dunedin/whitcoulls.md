@@ -1,5 +1,5 @@
 ---
 title: "Whitcoulls"
 url: /dunedin/whitcoulls/
-shop: books
+shop: Bücher
 ---

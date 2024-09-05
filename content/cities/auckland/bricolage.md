@@ -1,5 +1,5 @@
 ---
 title: "Bricolage"
 url: /auckland/bricolage/
-shop: furniture
+shop: Möbel
 ---
