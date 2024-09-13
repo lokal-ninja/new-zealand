@@ -1,5 +1,5 @@
 ---
 title: "The Vape Shed"
 url: /auckland/the-vape-shed/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

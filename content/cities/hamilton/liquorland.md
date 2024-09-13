@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /hamilton/liquorland/
-shop: Spirituosen
+shop: alcohol
 ---

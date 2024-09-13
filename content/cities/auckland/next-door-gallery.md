@@ -1,5 +1,5 @@
 ---
 title: "Next Door Gallery"
 url: /auckland/next-door-gallery/
-shop: Kunst
+shop: art
 ---

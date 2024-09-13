@@ -1,5 +1,5 @@
 ---
 title: "Armstrong's Opel"
 url: /christchurch/armstrongs-opel/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nunu Nutrition STO"
 url: /auckland/nunu-nutrition-sto/
-shop: Bioladen
+shop: health food
 ---

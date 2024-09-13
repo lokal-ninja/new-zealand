@@ -1,5 +1,5 @@
 ---
 title: "Hair Haven"
 url: /hamilton/hair-haven/
-shop: Friseur
+shop: hairdresser
 ---

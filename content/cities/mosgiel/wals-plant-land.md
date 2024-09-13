@@ -1,5 +1,5 @@
 ---
 title: "Wal's Plant Land"
 url: /mosgiel/wals-plant-land/
-shop: Garten-Center
+shop: garden centre
 ---

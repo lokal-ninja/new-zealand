@@ -1,5 +1,5 @@
 ---
 title: "Browns Ski Shop"
 url: /queenstown/browns-ski-shop/
-shop: Ski
+shop: ski
 ---

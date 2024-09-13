@@ -1,5 +1,5 @@
 ---
 title: "OMC Power Equipment"
 url: /christchurch/omc-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

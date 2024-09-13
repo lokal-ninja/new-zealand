@@ -1,5 +1,5 @@
 ---
 title: "Liquor Centre"
 url: /christchurch/liquor-centre-main-north-road/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PlaceMakers"
 url: /wellington/placemakers/
-shop: Baumarkt
+shop: doityourself
 ---

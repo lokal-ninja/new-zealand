@@ -1,5 +1,5 @@
 ---
 title: "Lighting Direct"
 url: /invercargill/lighting-direct/
-shop: Lampen
+shop: lamps
 ---

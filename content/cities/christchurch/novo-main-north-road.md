@@ -1,5 +1,5 @@
 ---
 title: "Novo"
 url: /christchurch/novo-main-north-road/
-shop: Schuhe
+shop: shoes
 ---

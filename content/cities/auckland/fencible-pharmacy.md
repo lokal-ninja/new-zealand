@@ -1,5 +1,5 @@
 ---
 title: "Fencible Pharmacy"
 url: /auckland/fencible-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

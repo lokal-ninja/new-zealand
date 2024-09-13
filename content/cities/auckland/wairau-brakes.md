@@ -1,5 +1,5 @@
 ---
 title: "Wairau Brakes"
 url: /auckland/wairau-brakes/
-shop: Autowerkstatt
+shop: car repair
 ---

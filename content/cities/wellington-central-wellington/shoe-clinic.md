@@ -1,5 +1,5 @@
 ---
 title: "Shoe Clinic"
 url: /wellington-central-wellington/shoe-clinic/
-shop: Schuhe
+shop: shoes
 ---

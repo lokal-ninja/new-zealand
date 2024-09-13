@@ -1,5 +1,5 @@
 ---
 title: "The Dough"
 url: /christchurch/the-dough/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /christchurch/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pagani"
 url: /christchurch/pagani/
-shop: Kleidung
+shop: clothes
 ---

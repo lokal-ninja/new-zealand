@@ -1,5 +1,5 @@
 ---
 title: "Hospice Shop"
 url: /hamilton/hospice-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

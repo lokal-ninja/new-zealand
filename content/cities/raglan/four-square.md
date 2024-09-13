@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /raglan/four-square/
-shop: Supermarkt
+shop: supermarket
 ---

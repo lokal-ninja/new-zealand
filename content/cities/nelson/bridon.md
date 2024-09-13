@@ -1,5 +1,5 @@
 ---
 title: "Bridon"
 url: /nelson/bridon/
-shop: Baustoffe
+shop: trade
 ---

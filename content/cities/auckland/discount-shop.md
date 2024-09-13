@@ -1,5 +1,5 @@
 ---
 title: "Discount Shop"
 url: /auckland/discount-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /invercargill/new-world-elles-road/
-shop: Supermarkt
+shop: supermarket
 ---

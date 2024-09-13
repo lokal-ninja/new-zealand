@@ -1,5 +1,5 @@
 ---
 title: "Canterbury Copy Service"
 url: /christchurch/canterbury-copy-service/
-shop: Kopieren
+shop: copyshop
 ---

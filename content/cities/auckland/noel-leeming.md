@@ -1,5 +1,5 @@
 ---
 title: "Noel Leeming"
 url: /auckland/noel-leeming/
-shop: Warenhaus
+shop: department store
 ---

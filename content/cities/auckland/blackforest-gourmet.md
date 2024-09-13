@@ -1,5 +1,5 @@
 ---
 title: "Blackforest Gourmet"
 url: /auckland/blackforest-gourmet/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacqui E"
 url: /wellington/jacqui-e/
-shop: Kleidung
+shop: clothes
 ---

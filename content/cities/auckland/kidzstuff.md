@@ -1,5 +1,5 @@
 ---
 title: "KidzStuff"
 url: /auckland/kidzstuff/
-shop: Spielzeug
+shop: toys
 ---

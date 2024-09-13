@@ -1,5 +1,5 @@
 ---
 title: "Fenzo"
 url: /auckland/fenzo/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacqui E"
 url: /christchurch/jacqui-e-the-palms-mall/
-shop: Kleidung
+shop: clothes
 ---

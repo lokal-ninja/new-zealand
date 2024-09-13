@@ -1,5 +1,5 @@
 ---
 title: "Bikes And Beyond"
 url: /devonport/bikes-and-beyond/
-shop: Fahrrad
+shop: bicycle
 ---

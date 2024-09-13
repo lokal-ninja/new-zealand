@@ -1,5 +1,5 @@
 ---
 title: "Dannevirke Sportsworld"
 url: /dannevirke/dannevirke-sportsworld/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiwi Journeys"
 url: /mapua/kiwi-journeys/
-shop: Mieten
+shop: storage rental
 ---

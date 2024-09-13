@@ -1,5 +1,5 @@
 ---
 title: "Colony"
 url: /christchurch/colony/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor Centre Avenue"
 url: /auckland/liquor-centre-avenue/
-shop: Spirituosen
+shop: alcohol
 ---

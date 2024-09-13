@@ -1,5 +1,5 @@
 ---
 title: "Terra Cat Christchurch"
 url: /christchurch/terra-cat-christchurch/
-shop: Autoteile
+shop: car parts
 ---

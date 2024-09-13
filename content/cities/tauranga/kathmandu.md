@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /tauranga/kathmandu/
-shop: Outdoor
+shop: outdoor
 ---

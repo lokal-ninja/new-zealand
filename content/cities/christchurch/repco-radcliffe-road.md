@@ -1,5 +1,5 @@
 ---
 title: "Repco"
 url: /christchurch/repco-radcliffe-road/
-shop: Autoteile
+shop: car parts
 ---

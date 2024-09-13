@@ -1,5 +1,5 @@
 ---
 title: "Terminus Dairy"
 url: /auckland/terminus-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

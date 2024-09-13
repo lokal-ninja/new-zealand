@@ -1,5 +1,5 @@
 ---
 title: "Sportsfuel"
 url: /hamilton/sportsfuel/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KetoEasy Dunedin"
 url: /dunedin/ketoeasy-dunedin/
-shop: Bioladen
+shop: health food
 ---

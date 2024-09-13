@@ -1,5 +1,5 @@
 ---
 title: "Resene ColorShop"
 url: /christchurch/resene-colorshop/
-shop: Farben
+shop: paint
 ---

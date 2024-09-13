@@ -1,5 +1,5 @@
 ---
 title: "MYLK Food Store"
 url: /napier/mylk-food-store/
-shop: Bioladen
+shop: health food
 ---

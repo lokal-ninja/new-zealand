@@ -1,5 +1,5 @@
 ---
 title: "Toyworld"
 url: /tauranga/toyworld/
-shop: Spielzeug
+shop: toys
 ---

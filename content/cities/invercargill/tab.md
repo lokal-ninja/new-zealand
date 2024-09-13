@@ -1,5 +1,5 @@
 ---
 title: "TAB"
 url: /invercargill/tab/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meadowlands Floral Design"
 url: /auckland/meadowlands-floral-design/
-shop: Blumen
+shop: florist
 ---

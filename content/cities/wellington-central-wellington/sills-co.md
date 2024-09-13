@@ -1,5 +1,5 @@
 ---
 title: "Sills + Co"
 url: /wellington-central-wellington/sills-co/
-shop: Kleidung
+shop: clothes
 ---

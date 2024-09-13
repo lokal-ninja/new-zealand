@@ -1,5 +1,5 @@
 ---
 title: "NPD Lincoln Road Workshop"
 url: /christchurch/npd-lincoln-road-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

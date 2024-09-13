@@ -1,5 +1,5 @@
 ---
 title: "Farmers"
 url: /christchurch/farmers-main-north-road/
-shop: Warenhaus
+shop: department store
 ---

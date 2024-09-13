@@ -1,5 +1,5 @@
 ---
 title: "ezystor"
 url: /christchurch/ezystor/
-shop: Mieten
+shop: storage rental
 ---

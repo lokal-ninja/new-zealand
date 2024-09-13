@@ -1,5 +1,5 @@
 ---
 title: "Around Again Cycles"
 url: /christchurch/around-again-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

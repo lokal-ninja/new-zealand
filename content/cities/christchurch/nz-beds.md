@@ -1,5 +1,5 @@
 ---
 title: "NZ Beds"
 url: /christchurch/nz-beds/
-shop: Betten
+shop: bed
 ---

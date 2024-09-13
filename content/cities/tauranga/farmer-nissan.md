@@ -1,5 +1,5 @@
 ---
 title: "Farmer Nissan"
 url: /tauranga/farmer-nissan/
-shop: Autohaus
+shop: car
 ---

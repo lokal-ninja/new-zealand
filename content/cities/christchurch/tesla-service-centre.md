@@ -1,5 +1,5 @@
 ---
 title: "Tesla Service Centre"
 url: /christchurch/tesla-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

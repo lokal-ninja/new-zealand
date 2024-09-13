@@ -1,5 +1,5 @@
 ---
 title: "Wucha Meadowlands"
 url: /auckland/wucha-meadowlands/
-shop: Getränke
+shop: beverages
 ---

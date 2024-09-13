@@ -1,5 +1,5 @@
 ---
 title: "Farmers"
 url: /tauranga/farmers/
-shop: Warenhaus
+shop: department store
 ---

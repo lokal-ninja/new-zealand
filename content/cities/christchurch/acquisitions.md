@@ -1,5 +1,5 @@
 ---
 title: "Acquisitions"
 url: /christchurch/acquisitions/
-shop: Andenken
+shop: gift
 ---

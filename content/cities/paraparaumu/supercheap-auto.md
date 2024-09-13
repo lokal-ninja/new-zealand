@@ -1,5 +1,5 @@
 ---
 title: "Supercheap Auto"
 url: /paraparaumu/supercheap-auto/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pit Stop"
 url: /auckland/pit-stop/
-shop: Autowerkstatt
+shop: car repair
 ---

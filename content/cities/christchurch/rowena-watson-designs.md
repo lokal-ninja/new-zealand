@@ -1,5 +1,5 @@
 ---
 title: "Rowena Watson Designs"
 url: /christchurch/rowena-watson-designs/
-shop: Schmuck
+shop: jewelry
 ---

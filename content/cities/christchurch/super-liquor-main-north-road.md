@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
 url: /christchurch/super-liquor-main-north-road/
-shop: Spirituosen
+shop: alcohol
 ---

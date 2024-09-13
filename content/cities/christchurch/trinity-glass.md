@@ -1,5 +1,5 @@
 ---
 title: "Trinity Glass"
 url: /christchurch/trinity-glass/
-shop: Basteln
+shop: craft
 ---

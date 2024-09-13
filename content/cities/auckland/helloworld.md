@@ -1,5 +1,5 @@
 ---
 title: "helloworld"
 url: /auckland/helloworld/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Crown Barber"
 url: /auckland/the-crown-barber/
-shop: Friseur
+shop: hairdresser
 ---

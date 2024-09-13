@@ -1,5 +1,5 @@
 ---
 title: "FreshChoice"
 url: /cromwell/freshchoice/
-shop: Supermarkt
+shop: supermarket
 ---

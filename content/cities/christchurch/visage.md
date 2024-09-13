@@ -1,5 +1,5 @@
 ---
 title: "Visage"
 url: /christchurch/visage/
-shop: Friseur
+shop: hairdresser
 ---

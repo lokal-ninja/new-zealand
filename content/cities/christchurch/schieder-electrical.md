@@ -1,5 +1,5 @@
 ---
 title: "schieder electrical"
 url: /christchurch/schieder-electrical/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Postie"
 url: /christchurch/postie/
-shop: Kleidung
+shop: clothes
 ---

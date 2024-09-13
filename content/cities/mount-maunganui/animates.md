@@ -1,5 +1,5 @@
 ---
 title: "Animates"
 url: /mount-maunganui/animates/
-shop: Tiere
+shop: pet
 ---

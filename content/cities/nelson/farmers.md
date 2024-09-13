@@ -1,5 +1,5 @@
 ---
 title: "Farmers"
 url: /nelson/farmers/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Take Note"
 url: /invercargill/take-note/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Animates"
 url: /christchurch/animates-linwood-avenue/
-shop: Tiere
+shop: pet
 ---

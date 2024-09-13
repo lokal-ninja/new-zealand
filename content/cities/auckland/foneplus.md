@@ -1,5 +1,5 @@
 ---
 title: "Foneplus"
 url: /auckland/foneplus/
-shop: Handy
+shop: mobile phone
 ---

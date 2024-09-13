@@ -1,5 +1,5 @@
 ---
 title: "Bunnings Warehouse"
 url: /feilding/bunnings-warehouse/
-shop: Baumarkt
+shop: doityourself
 ---

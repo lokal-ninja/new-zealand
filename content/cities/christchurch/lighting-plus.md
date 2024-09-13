@@ -1,5 +1,5 @@
 ---
 title: "Lighting Plus"
 url: /christchurch/lighting-plus/
-shop: Lampen
+shop: lamps
 ---

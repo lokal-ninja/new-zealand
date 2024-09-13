@@ -1,5 +1,5 @@
 ---
 title: "White Heron Dairy"
 url: /auckland/white-heron-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cashel Street Foodmarket"
 url: /christchurch/cashel-street-foodmarket/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xplosiv"
 url: /auckland/xplosiv/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

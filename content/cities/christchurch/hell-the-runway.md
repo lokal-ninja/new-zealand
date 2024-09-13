@@ -1,5 +1,5 @@
 ---
 title: "Hell"
 url: /christchurch/hell-the-runway/
-shop: Spirituosen
+shop: alcohol
 ---

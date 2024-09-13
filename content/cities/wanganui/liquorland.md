@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /wanganui/liquorland/
-shop: Spirituosen
+shop: alcohol
 ---

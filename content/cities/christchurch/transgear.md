@@ -1,5 +1,5 @@
 ---
 title: "Transgear"
 url: /christchurch/transgear/
-shop: Autowerkstatt
+shop: car repair
 ---

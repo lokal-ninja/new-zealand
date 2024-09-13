@@ -1,5 +1,5 @@
 ---
 title: "Shosha Wairau Valley"
 url: /auckland/shosha-wairau-valley/
-shop: Tabak
+shop: tobacco
 ---

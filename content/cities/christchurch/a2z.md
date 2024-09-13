@@ -1,5 +1,5 @@
 ---
 title: "A2Z"
 url: /christchurch/a2z/
-shop: Andenken
+shop: gift
 ---

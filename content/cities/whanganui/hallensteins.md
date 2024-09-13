@@ -1,5 +1,5 @@
 ---
 title: "Hallensteins"
 url: /whanganui/hallensteins/
-shop: Kleidung
+shop: clothes
 ---

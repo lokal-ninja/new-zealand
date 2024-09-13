@@ -1,5 +1,5 @@
 ---
 title: "Flooring Xtra"
 url: /tauranga/flooring-xtra/
-shop: Teppiche
+shop: carpet
 ---

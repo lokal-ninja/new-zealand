@@ -1,5 +1,5 @@
 ---
 title: "Mrs Higgins"
 url: /christchurch/mrs-higgins/
-shop: Bäckerei
+shop: bakery
 ---

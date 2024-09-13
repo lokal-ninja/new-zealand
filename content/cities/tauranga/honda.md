@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /tauranga/honda/
-shop: Autohaus
+shop: car
 ---

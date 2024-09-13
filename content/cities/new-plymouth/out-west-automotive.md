@@ -1,5 +1,5 @@
 ---
 title: "Out West Automotive"
 url: /new-plymouth/out-west-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

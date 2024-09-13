@@ -1,5 +1,5 @@
 ---
 title: "Countdown"
 url: /new-plymouth/countdown/
-shop: Supermarkt
+shop: supermarket
 ---

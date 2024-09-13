@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Stationery"
 url: /lower-hutt/warehouse-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

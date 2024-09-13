@@ -1,5 +1,5 @@
 ---
 title: "fonebitz"
 url: /wellington-central-wellington/fonebitz/
-shop: Handy
+shop: mobile phone
 ---

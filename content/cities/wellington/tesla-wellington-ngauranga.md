@@ -1,5 +1,5 @@
 ---
 title: "Tesla Wellington-Ngauranga"
 url: /wellington/tesla-wellington-ngauranga/
-shop: Autohaus
+shop: car
 ---

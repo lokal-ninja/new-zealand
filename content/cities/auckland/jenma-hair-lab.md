@@ -1,5 +1,5 @@
 ---
 title: "Jenma Hair Lab"
 url: /auckland/jenma-hair-lab/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GraysOnline"
 url: /christchurch/graysonline/
-shop: Auktionshaus
+shop: auction house
 ---

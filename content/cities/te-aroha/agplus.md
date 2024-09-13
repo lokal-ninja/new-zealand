@@ -1,5 +1,5 @@
 ---
 title: "AgPlus"
 url: /te-aroha/agplus/
-shop: Autowerkstatt
+shop: car repair
 ---

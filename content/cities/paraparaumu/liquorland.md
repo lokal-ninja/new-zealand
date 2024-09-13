@@ -1,5 +1,5 @@
 ---
 title: "Liquorland"
 url: /paraparaumu/liquorland/
-shop: Spirituosen
+shop: alcohol
 ---

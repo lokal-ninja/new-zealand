@@ -1,5 +1,5 @@
 ---
 title: "Three Boys Brewery"
 url: /christchurch/three-boys-brewery/
-shop: Spirituosen
+shop: alcohol
 ---

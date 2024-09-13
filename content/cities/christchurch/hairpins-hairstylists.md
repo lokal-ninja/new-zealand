@@ -1,5 +1,5 @@
 ---
 title: "Hairpins Hairstylists"
 url: /christchurch/hairpins-hairstylists/
-shop: Friseur
+shop: hairdresser
 ---

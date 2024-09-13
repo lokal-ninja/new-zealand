@@ -1,5 +1,5 @@
 ---
 title: "Spotlight"
 url: /christchurch/spotlight/
-shop: Textil
+shop: fabric
 ---

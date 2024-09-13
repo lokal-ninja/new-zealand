@@ -1,5 +1,5 @@
 ---
 title: "Terra Cat Workshop"
 url: /christchurch/terra-cat-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lightning Direct"
 url: /hamilton/lightning-direct/
-shop: Autowerkstatt
+shop: car repair
 ---

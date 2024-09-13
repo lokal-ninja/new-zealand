@@ -1,5 +1,5 @@
 ---
 title: "Cycleways"
 url: /christchurch/cycleways/
-shop: Fahrrad
+shop: bicycle
 ---

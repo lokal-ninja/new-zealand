@@ -1,5 +1,5 @@
 ---
 title: "Honeyroom"
 url: /auckland/honeyroom/
-shop: Kosmetik
+shop: beauty
 ---

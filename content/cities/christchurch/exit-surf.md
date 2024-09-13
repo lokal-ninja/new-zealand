@@ -1,5 +1,5 @@
 ---
 title: "Exit Surf"
 url: /christchurch/exit-surf/
-shop: Sport
+shop: sports
 ---

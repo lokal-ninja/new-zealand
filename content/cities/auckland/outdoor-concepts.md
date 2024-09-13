@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Concepts"
 url: /auckland/outdoor-concepts/
-shop: Outdoor
+shop: outdoor
 ---

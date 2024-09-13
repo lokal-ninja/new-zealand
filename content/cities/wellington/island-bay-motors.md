@@ -1,5 +1,5 @@
 ---
 title: "Island Bay Motors"
 url: /wellington/island-bay-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

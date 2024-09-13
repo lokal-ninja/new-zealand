@@ -1,5 +1,5 @@
 ---
 title: "Telfers Christchurch"
 url: /christchurch/telfers-christchurch/
-shop: Elektrisch
+shop: electrical
 ---

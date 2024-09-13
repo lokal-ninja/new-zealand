@@ -1,5 +1,5 @@
 ---
 title: "National Storage"
 url: /auckland/national-storage/
-shop: Mieten
+shop: storage rental
 ---

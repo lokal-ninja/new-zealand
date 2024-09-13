@@ -1,5 +1,5 @@
 ---
 title: "Diesel Doctor"
 url: /christchurch/diesel-doctor/
-shop: Autowerkstatt
+shop: car repair
 ---

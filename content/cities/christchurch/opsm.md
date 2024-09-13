@@ -1,5 +1,5 @@
 ---
 title: "OPSM"
 url: /christchurch/opsm/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havana Coffee Works"
 url: /auckland/havana-coffee-works/
-shop: Kaffee
+shop: coffee
 ---

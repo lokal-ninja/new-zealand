@@ -1,5 +1,5 @@
 ---
 title: "MetroMart"
 url: /christchurch/metromart-main-north-road/
-shop: Lebensmittel
+shop: convenience
 ---

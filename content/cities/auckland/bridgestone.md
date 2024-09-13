@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /auckland/bridgestone/
-shop: Reifen
+shop: tyres
 ---

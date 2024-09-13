@@ -1,5 +1,5 @@
 ---
 title: "StirlingWomen"
 url: /christchurch/stirlingwomen/
-shop: Kleidung
+shop: clothes
 ---

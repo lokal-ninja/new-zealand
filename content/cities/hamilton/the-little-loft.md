@@ -1,5 +1,5 @@
 ---
 title: "The Little Loft"
 url: /hamilton/the-little-loft/
-shop: Kosmetik
+shop: beauty
 ---

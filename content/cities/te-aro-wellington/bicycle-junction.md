@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Junction"
 url: /te-aro-wellington/bicycle-junction/
-shop: Fahrrad
+shop: bicycle
 ---

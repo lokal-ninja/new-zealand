@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /new-plymouth/harvey-norman/
-shop: Elektronik
+shop: electronics
 ---

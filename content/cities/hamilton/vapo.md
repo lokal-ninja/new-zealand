@@ -1,5 +1,5 @@
 ---
 title: "Vapo"
 url: /hamilton/vapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiordland Souvenirs"
 url: /riverton-aparima/fiordland-souvenirs/
-shop: Andenken
+shop: gift
 ---

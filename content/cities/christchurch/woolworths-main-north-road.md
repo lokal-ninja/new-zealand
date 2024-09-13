@@ -1,5 +1,5 @@
 ---
 title: "Woolworths"
 url: /christchurch/woolworths-main-north-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Travel"
 url: /christchurch/house-of-travel-victoria-street/
-shop: Reisebüro
+shop: travel agency
 ---

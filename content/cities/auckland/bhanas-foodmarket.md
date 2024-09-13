@@ -1,5 +1,5 @@
 ---
 title: "Bhana’s Foodmarket"
 url: /auckland/bhanas-foodmarket/
-shop: Lebensmittel
+shop: convenience
 ---

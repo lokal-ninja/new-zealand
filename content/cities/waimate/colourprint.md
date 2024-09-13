@@ -1,5 +1,5 @@
 ---
 title: "Colourprint"
 url: /waimate/colourprint/
-shop: Kopieren
+shop: copyshop
 ---

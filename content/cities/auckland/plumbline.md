@@ -1,5 +1,5 @@
 ---
 title: "Plumbline"
 url: /auckland/plumbline/
-shop: Badezimmer
+shop: bathroom
 ---

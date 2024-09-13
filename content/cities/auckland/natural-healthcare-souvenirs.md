@@ -1,5 +1,5 @@
 ---
 title: "Natural Healthcare Souvenirs"
 url: /auckland/natural-healthcare-souvenirs/
-shop: Allgemein
+shop: shop
 ---

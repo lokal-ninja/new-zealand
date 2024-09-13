@@ -1,5 +1,5 @@
 ---
 title: "Rylock"
 url: /christchurch/rylock/
-shop: Türen
+shop: doors
 ---

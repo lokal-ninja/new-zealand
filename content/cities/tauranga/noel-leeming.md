@@ -1,5 +1,5 @@
 ---
 title: "Noel Leeming"
 url: /tauranga/noel-leeming/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ben Gong Queen's Tea"
 url: /christchurch/ben-gong-queens-tea/
-shop: Getränke
+shop: beverages
 ---

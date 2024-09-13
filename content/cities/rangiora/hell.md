@@ -1,5 +1,5 @@
 ---
 title: "Hell"
 url: /rangiora/hell/
-shop: Spirituosen
+shop: alcohol
 ---

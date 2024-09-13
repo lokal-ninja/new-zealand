@@ -1,5 +1,5 @@
 ---
 title: "Green Stripes"
 url: /christchurch/green-stripes/
-shop: Modehaus
+shop: boutique
 ---

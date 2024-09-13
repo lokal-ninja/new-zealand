@@ -1,5 +1,5 @@
 ---
 title: "Big Barrel"
 url: /picton/big-barrel/
-shop: Spirituosen
+shop: alcohol
 ---

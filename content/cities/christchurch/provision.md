@@ -1,5 +1,5 @@
 ---
 title: "ProVision"
 url: /christchurch/provision/
-shop: Mieten
+shop: storage rental
 ---

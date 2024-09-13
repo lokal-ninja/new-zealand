@@ -1,5 +1,5 @@
 ---
 title: "Just Cuts"
 url: /christchurch/just-cuts-marshland-road/
-shop: Friseur
+shop: hairdresser
 ---

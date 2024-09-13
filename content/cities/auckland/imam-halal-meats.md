@@ -1,5 +1,5 @@
 ---
 title: "Imam Halal Meats"
 url: /auckland/imam-halal-meats/
-shop: Metzgerei
+shop: butcher
 ---

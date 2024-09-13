@@ -1,5 +1,5 @@
 ---
 title: "Exedy"
 url: /auckland/exedy/
-shop: Autoteile
+shop: car parts
 ---

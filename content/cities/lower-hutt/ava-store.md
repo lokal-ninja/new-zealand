@@ -1,5 +1,5 @@
 ---
 title: "Ava Store"
 url: /lower-hutt/ava-store/
-shop: Lebensmittel
+shop: convenience
 ---

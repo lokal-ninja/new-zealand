@@ -1,5 +1,5 @@
 ---
 title: "Simply Beauty"
 url: /christchurch/simply-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piccadilly Books Limited"
 url: /christchurch/piccadilly-books-limited/
-shop: Bücher
+shop: books
 ---

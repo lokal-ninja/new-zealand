@@ -1,5 +1,5 @@
 ---
 title: "Polished Diamonds"
 url: /wellington/polished-diamonds/
-shop: Schmuck
+shop: jewelry
 ---

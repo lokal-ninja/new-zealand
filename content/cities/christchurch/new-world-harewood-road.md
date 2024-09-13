@@ -1,5 +1,5 @@
 ---
 title: "New World"
 url: /christchurch/new-world-harewood-road/
-shop: Supermarkt
+shop: supermarket
 ---

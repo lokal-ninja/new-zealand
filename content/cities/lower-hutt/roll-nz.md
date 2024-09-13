@@ -1,5 +1,5 @@
 ---
 title: "Roll.nz"
 url: /lower-hutt/roll-nz/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Mechanix"
 url: /auckland/car-mechanix/
-shop: Autowerkstatt
+shop: car repair
 ---

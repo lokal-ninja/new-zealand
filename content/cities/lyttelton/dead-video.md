@@ -1,5 +1,5 @@
 ---
 title: "Dead Video"
 url: /lyttelton/dead-video/
-shop: Videothek
+shop: video
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nifty"
 url: /christchurch/nifty/
-shop: Gebrauchtwaren
+shop: charity
 ---

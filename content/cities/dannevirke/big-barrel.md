@@ -1,5 +1,5 @@
 ---
 title: "Big Barrel"
 url: /dannevirke/big-barrel/
-shop: Spirituosen
+shop: alcohol
 ---

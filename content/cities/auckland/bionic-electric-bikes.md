@@ -1,5 +1,5 @@
 ---
 title: "Bionic Electric Bikes"
 url: /auckland/bionic-electric-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

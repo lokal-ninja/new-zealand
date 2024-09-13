@@ -1,5 +1,5 @@
 ---
 title: "Royale Cars"
 url: /hamilton/royale-cars/
-shop: Motorrad
+shop: motorcycle
 ---

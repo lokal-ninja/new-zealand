@@ -1,5 +1,5 @@
 ---
 title: "Chef's Complements"
 url: /taupo/chefs-complements/
-shop: Küchen
+shop: kitchen
 ---

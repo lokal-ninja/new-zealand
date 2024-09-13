@@ -1,5 +1,5 @@
 ---
 title: "Chef Shop"
 url: /auckland/chef-shop/
-shop: Küchen
+shop: kitchen
 ---

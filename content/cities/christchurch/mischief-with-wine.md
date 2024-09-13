@@ -1,5 +1,5 @@
 ---
 title: "Mischief With Wine"
 url: /christchurch/mischief-with-wine/
-shop: Wein
+shop: wine
 ---

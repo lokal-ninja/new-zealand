@@ -1,5 +1,5 @@
 ---
 title: "VAPO"
 url: /palmerston-north/vapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

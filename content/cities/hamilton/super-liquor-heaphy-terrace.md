@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
 url: /hamilton/super-liquor-heaphy-terrace/
-shop: Spirituosen
+shop: alcohol
 ---

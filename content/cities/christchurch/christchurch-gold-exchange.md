@@ -1,5 +1,5 @@
 ---
 title: "Christchurch Gold Exchange"
 url: /christchurch/christchurch-gold-exchange/
-shop: Allgemein
+shop: shop
 ---

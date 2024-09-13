@@ -1,5 +1,5 @@
 ---
 title: "Collision Repair Services"
 url: /auckland/collision-repair-services/
-shop: Autowerkstatt
+shop: car repair
 ---

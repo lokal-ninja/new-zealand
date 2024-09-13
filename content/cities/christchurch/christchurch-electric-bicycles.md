@@ -1,5 +1,5 @@
 ---
 title: "Christchurch Electric Bicycles"
 url: /christchurch/christchurch-electric-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

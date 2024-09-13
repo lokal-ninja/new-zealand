@@ -1,5 +1,5 @@
 ---
 title: "Master Valet Dry Cleaners"
 url: /christchurch/master-valet-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

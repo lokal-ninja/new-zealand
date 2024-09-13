@@ -1,5 +1,5 @@
 ---
 title: "ITM Timber Yard"
 url: /kaikoura/itm-timber-yard/
-shop: Baustoffe
+shop: trade
 ---

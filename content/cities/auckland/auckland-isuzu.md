@@ -1,5 +1,5 @@
 ---
 title: "Auckland Isuzu"
 url: /auckland/auckland-isuzu/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vino Fino"
 url: /christchurch/vino-fino/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gladstone Butchery"
 url: /auckland/gladstone-butchery/
-shop: Metzgerei
+shop: butcher
 ---

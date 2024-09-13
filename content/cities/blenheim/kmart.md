@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /blenheim/kmart/
-shop: Warenhaus
+shop: department store
 ---

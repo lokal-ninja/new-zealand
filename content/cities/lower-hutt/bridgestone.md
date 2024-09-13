@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /lower-hutt/bridgestone/
-shop: Reifen
+shop: tyres
 ---
