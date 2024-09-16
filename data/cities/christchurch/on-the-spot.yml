@@ -4,8 +4,8 @@ latitude: -43.48034
 longitude: 172.60328
 postcode: "8051"
 city: Christchurch
-street: "Grampian Street"
-housenumber: 16
-phone: "+64 3 359 9324"
-opening_hours: "Mo-Fr 07:30-18:30, Sa-Su 10:00-18:30"
-website: "https://www.onthespot.co.nz/store-locations/on-the-spot-grampian-street/"
+street: Grampian Street
+housenumber: "16"
+phone: +64 3 359 9324
+opening_hours: Mo-Fr 07:30-18:30, Sa-Su 10:00-18:30
+website: https://www.onthespot.co.nz/store-locations/on-the-spot-grampian-street/

@@ -4,8 +4,8 @@ latitude: -36.76765
 longitude: 174.73935
 postcode: "0627"
 city: Auckland
-street: "Croftfield Lane"
-housenumber: 1
-phone: "09 443 1759"
-opening_hours: "Mo-Fr 08:00-17:00 Sat 08:00-14:00"
-website: "https://aa.co.nz"
+street: Croftfield Lane
+housenumber: "1"
+phone: 09 443 1759
+opening_hours: Mo-Fr 08:00-17:00 Sat 08:00-14:00
+website: https://aa.co.nz

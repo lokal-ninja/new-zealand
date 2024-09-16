@@ -1,11 +1,11 @@
 id: 305783403
-type: way
+type: node
 latitude: -43.54595
 longitude: 172.63542
 postcode: "8023"
 city: Christchurch
-street: "Colombo Street"
-housenumber: 363
+street: Colombo Street
+housenumber: "363"
 phone: ""
 opening_hours: ""
-website: "https://thecolombo.co.nz/"
+website: https://thecolombo.co.nz/

@@ -1,11 +1,11 @@
 id: 368396127
-type: way
+type: node
 latitude: -40.3586
 longitude: 175.60198
 postcode: "4410"
 city: Palmerston North
-street: "Cook Street"
-housenumber: 7
+street: Cook Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

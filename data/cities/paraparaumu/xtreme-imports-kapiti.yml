@@ -1,11 +1,11 @@
 id: 836320467
-type: way
+type: node
 latitude: -40.90589
 longitude: 175.00034
 postcode: "5032"
 city: Paraparaumu
-street: "Sheffield Street"
-housenumber: 8
+street: Sheffield Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

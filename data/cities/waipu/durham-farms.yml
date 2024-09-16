@@ -4,8 +4,8 @@ latitude: -36.04083
 longitude: 174.403
 postcode: "0582"
 city: Waipu
-street: "Durham Road"
-housenumber: 128
+street: Durham Road
+housenumber: "128"
 phone: "+6494789874"
-opening_hours: "Mo-Fr 09:00-14:00; Sa-Su 09:00-12:00"
-website: "https://www.durhamfarms.co.nz"
+opening_hours: Mo-Fr 09:00-14:00; Sa-Su 09:00-12:00
+website: https://www.durhamfarms.co.nz

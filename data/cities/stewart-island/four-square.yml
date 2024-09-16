@@ -1,11 +1,11 @@
 id: 228365510
-type: way
+type: node
 latitude: -46.89764
 longitude: 168.12829
 postcode: "9818"
 city: Stewart Island
-street: "Elgin Terrace"
-housenumber: 20
-phone: "+64 3 219 1069"
-opening_hours: "07:30-19:00"
+street: Elgin Terrace
+housenumber: "20"
+phone: +64 3 219 1069
+opening_hours: 07:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 110371723
-type: way
+type: node
 latitude: -43.54737
 longitude: 172.52479
 postcode: "8042"
 city: Christchurch
-street: "Amyes Road"
-housenumber: 24
+street: Amyes Road
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

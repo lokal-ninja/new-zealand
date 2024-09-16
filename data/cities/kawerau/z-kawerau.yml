@@ -1,11 +1,11 @@
 id: 341758187
-type: way
+type: node
 latitude: -38.08489
 longitude: 176.702
 postcode: "3127"
 city: Kawerau
-street: "Islington Street"
-housenumber: 6
+street: Islington Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

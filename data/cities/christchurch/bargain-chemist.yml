@@ -1,11 +1,11 @@
 id: 1259160313
-type: way
+type: node
 latitude: -43.49372
 longitude: 172.66025
 postcode: "8083"
 city: Christchurch
-street: "Marshland Road"
-housenumber: 199
-phone: "+64 3 929 0025"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.bargainchemist.co.nz/"
+street: Marshland Road
+housenumber: "199"
+phone: +64 3 929 0025
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.bargainchemist.co.nz/

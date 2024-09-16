@@ -1,11 +1,11 @@
 id: 1017025927
-type: way
+type: node
 latitude: -43.54362
 longitude: 172.6695
 postcode: "8023"
 city: Christchurch
-street: "Ferry Road"
-housenumber: 449
-phone: "+64 800 526 625"
-opening_hours: "Mo - Fr 09:00 - 17:30; Sa 10:00 - 14:00"
-website: "https://freedomrv.co.nz/"
+street: Ferry Road
+housenumber: "449"
+phone: +64 800 526 625
+opening_hours: Mo - Fr 09:00 - 17:30; Sa 10:00 - 14:00
+website: https://freedomrv.co.nz/

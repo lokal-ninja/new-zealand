@@ -1,11 +1,11 @@
 id: 278747153
-type: way
+type: node
 latitude: -40.22476
 longitude: 175.56342
 postcode: ""
 city: Feilding
-street: "Manchester Street"
-housenumber: 113
+street: Manchester Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

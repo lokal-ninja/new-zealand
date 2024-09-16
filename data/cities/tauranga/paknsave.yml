@@ -4,8 +4,8 @@ latitude: -37.73897
 longitude: 176.10377
 postcode: "3110"
 city: Tauranga
-street: "Taurikura Drive"
-housenumber: 2
+street: Taurikura Drive
+housenumber: "2"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/tauriko"
+opening_hours: 08:00-21:00
+website: https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/tauriko

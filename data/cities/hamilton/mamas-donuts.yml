@@ -4,8 +4,8 @@ latitude: -37.80247
 longitude: 175.25974
 postcode: ""
 city: Hamilton
-street: "Duke Street"
-housenumber: 67
+street: Duke Street
+housenumber: "67"
 phone: ""
-opening_hours: "Th-Sa 07:00-13:00"
-website: "https://www.mamasdonuts.co.nz/"
+opening_hours: Th-Sa 07:00-13:00
+website: https://www.mamasdonuts.co.nz/

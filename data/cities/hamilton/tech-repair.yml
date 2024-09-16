@@ -4,8 +4,8 @@ latitude: -37.78872
 longitude: 175.28293
 postcode: ""
 city: Hamilton
-street: "Collingwood Street"
-housenumber: 20
+street: Collingwood Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa,Su 10:00-14:00"
-website: "https://www.techrepair.co.nz/"
+opening_hours: Mo-Fr 09:00-18:30; Sa,Su 10:00-14:00
+website: https://www.techrepair.co.nz/

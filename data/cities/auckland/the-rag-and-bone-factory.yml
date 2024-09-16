@@ -4,8 +4,8 @@ latitude: -36.81289
 longitude: 174.72768
 postcode: ""
 city: Auckland
-street: "Enterprise Street"
-housenumber: 2
-phone: "+64 27 807 8539"
-opening_hours: "Tu-Sa 10:00-16:00"
-website: "https://ragandbone.co.nz/"
+street: Enterprise Street
+housenumber: "2"
+phone: +64 27 807 8539
+opening_hours: Tu-Sa 10:00-16:00
+website: https://ragandbone.co.nz/

@@ -1,11 +1,11 @@
 id: 289135785
-type: way
+type: node
 latitude: -36.87789
 longitude: 174.67072
 postcode: "1062"
 city: Auckland
-street: "Rosebank Road"
-housenumber: 571
-phone: "+64 9 838 9058"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Rosebank Road
+housenumber: "571"
+phone: +64 9 838 9058
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

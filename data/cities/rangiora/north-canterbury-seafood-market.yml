@@ -1,11 +1,11 @@
 id: 303412357
-type: way
+type: node
 latitude: -43.30247
 longitude: 172.59999
 postcode: ""
 city: Rangiora
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

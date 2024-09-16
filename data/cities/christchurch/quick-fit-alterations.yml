@@ -1,11 +1,11 @@
 id: 1051223213
-type: way
+type: node
 latitude: -43.53399
 longitude: 172.63742
 postcode: "8011"
 city: Christchurch
-street: "Cashel St"
+street: Cashel St
 housenumber: 11b/166
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-17:00;"
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-17:00;
 website: ""

@@ -4,8 +4,8 @@ latitude: -37.78505
 longitude: 175.27938
 postcode: ""
 city: Hamilton
-street: "Barton Street"
-housenumber: 298
+street: Barton Street
+housenumber: "298"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.kiltonline.co.nz/"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.kiltonline.co.nz/

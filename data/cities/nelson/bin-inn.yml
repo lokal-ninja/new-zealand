@@ -4,8 +4,8 @@ latitude: -41.27299
 longitude: 173.28198
 postcode: ""
 city: Nelson
-street: "Bridge Street"
-housenumber: 16
-phone: "+64 3-546 6199"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:00-16:00; Su 10:00-14:00"
-website: "https://bininn.co.nz/bin-inn-nelson"
+street: Bridge Street
+housenumber: "16"
+phone: +64 3-546 6199
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:00-16:00; Su 10:00-14:00
+website: https://bininn.co.nz/bin-inn-nelson

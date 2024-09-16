@@ -4,8 +4,8 @@ latitude: -41.29009
 longitude: 174.77405
 postcode: "6011"
 city: Wellington
-street: "Willis Street"
-housenumber: 150
-phone: "+64 4 385 2919"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "http://wellington.listeningpost.co.nz/"
+street: Willis Street
+housenumber: "150"
+phone: +64 4 385 2919
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00
+website: http://wellington.listeningpost.co.nz/

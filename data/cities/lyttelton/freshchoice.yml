@@ -1,11 +1,11 @@
 id: 101185359
-type: way
+type: node
 latitude: -43.60276
 longitude: 172.72145
 postcode: "8082"
 city: Lyttelton
-street: "London Street"
-housenumber: 17
-phone: "+64 3 328 7368"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://lyttelton.store.freshchoice.co.nz/"
+street: London Street
+housenumber: "17"
+phone: +64 3 328 7368
+opening_hours: Mo-Su 07:00-21:00
+website: https://lyttelton.store.freshchoice.co.nz/

@@ -4,8 +4,8 @@ latitude: -37.78875
 longitude: 175.28418
 postcode: "3204"
 city: Hamilton
-street: "Victoria Street"
-housenumber: 221
+street: Victoria Street
+housenumber: "221"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-00:00; Sa 10:00-00:00"
-website: "https://myvice.co.nz/"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-00:00; Sa 10:00-00:00
+website: https://myvice.co.nz/

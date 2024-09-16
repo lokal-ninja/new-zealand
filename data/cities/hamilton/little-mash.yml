@@ -4,8 +4,8 @@ latitude: -37.78403
 longitude: 175.27843
 postcode: ""
 city: Hamilton
-street: "Barton Street"
-housenumber: 320
+street: Barton Street
+housenumber: "320"
 phone: ""
-opening_hours: "Mo-Fr 09:30-16:30; Sa 10:00-15:00"
-website: "https://littlemash.co.nz/"
+opening_hours: Mo-Fr 09:30-16:30; Sa 10:00-15:00
+website: https://littlemash.co.nz/

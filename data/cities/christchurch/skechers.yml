@@ -1,11 +1,11 @@
 id: 1116476382
-type: way
+type: node
 latitude: -43.53973
 longitude: 172.60666
 postcode: "8011"
 city: Christchurch
-street: "Clarence Street"
+street: Clarence Street
 housenumber: 6A/66
-phone: "+64 3 568 8316"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.skechers.co.nz/"
+phone: +64 3 568 8316
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.skechers.co.nz/

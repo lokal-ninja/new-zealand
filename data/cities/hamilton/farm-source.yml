@@ -4,8 +4,8 @@ latitude: -37.78347
 longitude: 175.25654
 postcode: ""
 city: Hamilton
-street: "Norton Road"
-housenumber: 115
+street: Norton Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://nzfarmsource.co.nz/"
+website: https://nzfarmsource.co.nz/

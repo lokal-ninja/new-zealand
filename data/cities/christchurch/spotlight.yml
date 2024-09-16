@@ -1,11 +1,11 @@
 id: 151948085
-type: way
+type: node
 latitude: -43.45884
 longitude: 172.62546
 postcode: "8051"
 city: Christchurch
-street: "Radcliffe Road"
-housenumber: 1
-phone: "+65 3 669 6600"
-opening_hours: "Mo-We 09:00-17:30; Th 09:00-19:00; Fr-Su 09:00-17:30"
+street: Radcliffe Road
+housenumber: "1"
+phone: +65 3 669 6600
+opening_hours: Mo-We 09:00-17:30; Th 09:00-19:00; Fr-Su 09:00-17:30
 website: ""

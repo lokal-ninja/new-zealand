@@ -4,8 +4,8 @@ latitude: -36.86745
 longitude: 174.76242
 postcode: "1023"
 city: Auckland
-street: "Water Street"
-housenumber: 12
+street: Water Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://floatculture.co.nz/"
+website: https://floatculture.co.nz/

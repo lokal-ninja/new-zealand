@@ -1,11 +1,11 @@
 id: 374055988
-type: way
+type: node
 latitude: -40.95079
 longitude: 175.66143
 postcode: "5810"
 city: Masterton
-street: "Dixon Street"
-housenumber: 56
+street: Dixon Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

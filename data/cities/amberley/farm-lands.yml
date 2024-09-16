@@ -1,11 +1,11 @@
 id: 495445171
-type: way
+type: node
 latitude: -43.15058
 longitude: 172.73182
 postcode: ""
 city: Amberley
-street: "Courage Road"
-housenumber: 22
-phone: "+64 3 314 8340"
-opening_hours: "Mo-Fr 08:00-16:00, Sat 9:00-16:00"
+street: Courage Road
+housenumber: "22"
+phone: +64 3 314 8340
+opening_hours: Mo-Fr 08:00-16:00, Sat 9:00-16:00
 website: ""

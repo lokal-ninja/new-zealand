@@ -1,11 +1,11 @@
 id: 1078378547
-type: way
+type: node
 latitude: -43.53081
 longitude: 172.59693
 postcode: "8041"
 city: Christchurch
 street: ""
-housenumber: 
-phone: "+64 03 343 5613"
+housenumber: ""
+phone: +64 03 343 5613
 opening_hours: ""
-website: "https://www.flightcentre.co.nz/"
+website: https://www.flightcentre.co.nz/

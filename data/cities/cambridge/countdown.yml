@@ -1,11 +1,11 @@
 id: 182985384
-type: way
+type: node
 latitude: -37.89203
 longitude: 175.47105
 postcode: "3434"
 city: Cambridge
-street: "Cnr Queen & Empire Street"
-housenumber: 
+street: Cnr Queen & Empire Street
+housenumber: ""
 phone: "+6478235971"
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 354967799
-type: way
+type: node
 latitude: -37.81118
 longitude: 175.32581
 postcode: "3216"
 city: Hamilton
-street: "Riverlea Road"
-housenumber: 138
+street: Riverlea Road
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://www.getlowcustoms.co.nz/"
+website: https://www.getlowcustoms.co.nz/

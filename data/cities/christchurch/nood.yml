@@ -1,11 +1,11 @@
 id: 1116476391
-type: way
+type: node
 latitude: -43.53807
 longitude: 172.60524
 postcode: "8011"
 city: Christchurch
-street: "Clarence Street"
+street: Clarence Street
 housenumber: 4b/66
-phone: "+64 3 943 2071"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.nood.co.nz"
+phone: +64 3 943 2071
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.nood.co.nz

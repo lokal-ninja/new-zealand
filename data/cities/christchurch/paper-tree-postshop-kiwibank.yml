@@ -1,11 +1,11 @@
 id: 1116484331
-type: way
+type: node
 latitude: -43.54036
 longitude: 172.60531
 postcode: "8149"
 city: Christchurch
-street: "Whiteleigh Avenue"
-housenumber: 5
-phone: "+64 3 343 1483"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://www.paper-tree.co.nz"
+street: Whiteleigh Avenue
+housenumber: "5"
+phone: +64 3 343 1483
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://www.paper-tree.co.nz

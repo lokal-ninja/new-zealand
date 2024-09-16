@@ -1,11 +1,11 @@
 id: 369936913
-type: way
+type: node
 latitude: -45.8941
 longitude: 170.5051
 postcode: "9012"
 city: Dunedin
-street: "Andersons Bay Road"
-housenumber: 408
+street: Andersons Bay Road
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

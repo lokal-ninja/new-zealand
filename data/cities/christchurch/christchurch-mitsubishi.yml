@@ -1,11 +1,11 @@
 id: 1006963114
-type: way
+type: node
 latitude: -43.54057
 longitude: 172.6398
 postcode: "8011"
 city: Christchurch
-street: "Moorhouse Avenue"
-housenumber: 386
+street: Moorhouse Avenue
+housenumber: "386"
 phone: ""
 opening_hours: ""
-website: "https://christchurchmitsubishi.co.nz/"
+website: https://christchurchmitsubishi.co.nz/

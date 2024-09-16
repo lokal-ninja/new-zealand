@@ -1,11 +1,11 @@
 id: 152583133
-type: way
+type: node
 latitude: -43.53395
 longitude: 172.63602
 postcode: "8011"
 city: Christchurch
-street: "Cashel Street"
-housenumber: 130
-phone: "+64 3 379 7400"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 9:00-17:00, Su 10:00-17:00"
-website: "https://www.ballantynes.co.nz/"
+street: Cashel Street
+housenumber: "130"
+phone: +64 3 379 7400
+opening_hours: Mo-Fr 09:00-17:30, Sa 9:00-17:00, Su 10:00-17:00
+website: https://www.ballantynes.co.nz/

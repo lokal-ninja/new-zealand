@@ -4,8 +4,8 @@ latitude: -37.78769
 longitude: 175.28364
 postcode: ""
 city: Hamilton
-street: "Victoria Street"
-housenumber: 298
+street: Victoria Street
+housenumber: "298"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Th 09:00-18:30; Sa 09:00-13:30"
-website: "http://foxkennedybarbers.co.nz/"
+opening_hours: Mo-Fr 09:00-17:00; Th 09:00-18:30; Sa 09:00-13:30
+website: http://foxkennedybarbers.co.nz/

@@ -4,8 +4,8 @@ latitude: -45.90432
 longitude: 170.4812
 postcode: "9012"
 city: Dunedin
-street: "Marewa Street"
-housenumber: 12
+street: Marewa Street
+housenumber: "12"
 phone: "+6421557427"
-opening_hours: "24/7"
-website: "https://ketoeasy.co.nz"
+opening_hours: 24/7
+website: https://ketoeasy.co.nz

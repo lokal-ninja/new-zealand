@@ -4,8 +4,8 @@ latitude: -41.29524
 longitude: 174.78282
 postcode: "6011"
 city: Te Aro, Wellington
-street: "Cambridge Terrace"
-housenumber: 32
+street: Cambridge Terrace
+housenumber: "32"
 phone: "0273583437"
 opening_hours: ""
-website: "https://boarandblade.co.nz/"
+website: https://boarandblade.co.nz/

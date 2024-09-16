@@ -1,11 +1,11 @@
 id: 1116476386
-type: way
+type: node
 latitude: -43.53869
 longitude: 172.60651
 postcode: "8011"
 city: Christchurch
-street: "Clarence Street"
-housenumber: 66
-phone: "+64 3 595 0271"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.looksharpstore.co.nz/"
+street: Clarence Street
+housenumber: "66"
+phone: +64 3 595 0271
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.looksharpstore.co.nz/

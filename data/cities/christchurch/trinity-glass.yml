@@ -1,11 +1,11 @@
 id: 101759823
-type: way
+type: node
 latitude: -43.52854
 longitude: 172.65016
 postcode: "8011"
 city: Christchurch
-street: "Fitzgerald Avenue"
-housenumber: 207
+street: Fitzgerald Avenue
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.trinityglass.co.nz/"
+website: https://www.trinityglass.co.nz/

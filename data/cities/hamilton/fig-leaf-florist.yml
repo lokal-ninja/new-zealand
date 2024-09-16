@@ -4,8 +4,8 @@ latitude: -37.77218
 longitude: 175.29781
 postcode: ""
 city: Hamilton
-street: "Enderley Avenue"
-housenumber: 40
+street: Enderley Avenue
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Tu,We 08:00-16:30; Sa 09:00-12:00"
-website: "https://www.figleaf.co.nz/"
+opening_hours: Mo-Fr 08:00-17:00; Tu,We 08:00-16:30; Sa 09:00-12:00
+website: https://www.figleaf.co.nz/

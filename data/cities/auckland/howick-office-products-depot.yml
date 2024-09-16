@@ -4,8 +4,8 @@ latitude: -36.89672
 longitude: 174.93308
 postcode: "2014"
 city: Auckland
-street: "Cook Street"
-housenumber: 43
-phone: "+64 9 534 3438"
+street: Cook Street
+housenumber: "43"
+phone: +64 9 534 3438
 opening_hours: ""
-website: "https://howick.opd.co.nz/"
+website: https://howick.opd.co.nz/

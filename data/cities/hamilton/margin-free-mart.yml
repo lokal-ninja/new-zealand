@@ -4,8 +4,8 @@ latitude: -37.78733
 longitude: 175.26576
 postcode: "3204"
 city: Hamilton
-street: "Commerce Street"
-housenumber: 123
+street: Commerce Street
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 09:00-17:00
 website: ""

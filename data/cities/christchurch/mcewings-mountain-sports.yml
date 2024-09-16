@@ -1,11 +1,11 @@
 id: 995793429
-type: way
+type: node
 latitude: -43.52587
 longitude: 172.55355
 postcode: "8042"
 city: Christchurch
-street: "Yaldhurst Road"
-housenumber: 200
-phone: "+64 03 342 85 28"
+street: Yaldhurst Road
+housenumber: "200"
+phone: +64 03 342 85 28
 opening_hours: ""
-website: "https://www.mcewings.com/"
+website: https://www.mcewings.com/

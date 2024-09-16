@@ -1,11 +1,11 @@
 id: 1251784185
-type: way
+type: node
 latitude: -43.53627
 longitude: 172.6067
 postcode: "8011"
 city: Christchurch
-street: "Mandeville Street"
+street: Mandeville Street
 housenumber: 7E
-phone: "+64 3 343 4005"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-16:00"
-website: "https://www.kitchenexpress.co.nz/"
+phone: +64 3 343 4005
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-16:00
+website: https://www.kitchenexpress.co.nz/

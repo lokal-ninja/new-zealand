@@ -4,8 +4,8 @@ latitude: -37.78768
 longitude: 175.2657
 postcode: "3204"
 city: Hamilton
-street: "Keddell Street"
-housenumber: 1
-phone: "+64 22 186 9299"
-opening_hours: "Tu 09:30-20:00; We 12:00-20:00; Th-Fr 09:30-14:30; Sa 09:00-16:00"
+street: Keddell Street
+housenumber: "1"
+phone: +64 22 186 9299
+opening_hours: Tu 09:30-20:00; We 12:00-20:00; Th-Fr 09:30-14:30; Sa 09:00-16:00
 website: ""

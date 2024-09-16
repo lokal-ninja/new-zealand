@@ -1,11 +1,11 @@
 id: 1157791222
-type: way
+type: node
 latitude: -41.08309
 longitude: 174.86814
 postcode: ""
 city: Porirua
-street: "St Andrews road"
-housenumber: 99
-phone: "+64 4 233 8902"
+street: St Andrews road
+housenumber: "99"
+phone: +64 4 233 8902
 opening_hours: ""
-website: "https://www.palmers.co.nz/"
+website: https://www.palmers.co.nz/

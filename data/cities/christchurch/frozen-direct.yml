@@ -1,11 +1,11 @@
 id: 1277685960
-type: way
+type: node
 latitude: -43.49946
 longitude: 172.6624
 postcode: "8061"
 city: Christchurch
-street: "Marshland Road"
+street: Marshland Road
 housenumber: 4/114
-phone: "+64 3 385 9426"
-opening_hours: "Mo-Su 09:00-18:00"
+phone: +64 3 385 9426
+opening_hours: Mo-Su 09:00-18:00
 website: ""

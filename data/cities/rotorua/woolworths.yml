@@ -1,11 +1,11 @@
 id: 137604668
-type: way
+type: node
 latitude: -38.14348
 longitude: 176.25468
 postcode: ""
 city: Rotorua
-street: "Fenton Street"
-housenumber: 246
+street: Fenton Street
+housenumber: "246"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

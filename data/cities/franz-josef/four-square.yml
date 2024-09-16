@@ -1,11 +1,11 @@
 id: 228660408
-type: way
+type: node
 latitude: -43.38824
 longitude: 170.18197
 postcode: "7856"
 city: Franz Josef
-street: "Main Road"
-housenumber: 24
-phone: "+64 3 752 0177"
-opening_hours: "Mo-Su 07:45-19:00"
+street: Main Road
+housenumber: "24"
+phone: +64 3 752 0177
+opening_hours: Mo-Su 07:45-19:00
 website: ""

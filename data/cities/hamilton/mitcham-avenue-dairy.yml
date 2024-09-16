@@ -1,11 +1,11 @@
 id: 425244117
-type: way
+type: node
 latitude: -37.77367
 longitude: 175.2554
 postcode: ""
 city: Hamilton
-street: "Mitcham Avenue"
-housenumber: 3
+street: Mitcham Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 377140924
-type: way
+type: node
 latitude: -42.40756
 longitude: 173.68086
 postcode: "7300"
 city: Kaikoura
-street: "Killarney Street"
-housenumber: 6
-phone: "+64 3 319 6443"
+street: Killarney Street
+housenumber: "6"
+phone: +64 3 319 6443
 opening_hours: ""
 website: ""

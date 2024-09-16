@@ -1,11 +1,11 @@
 id: 501109794
-type: way
+type: node
 latitude: -36.86577
 longitude: 174.74554
 postcode: "1021"
 city: Auckland
-street: "Great North Road"
+street: Great North Road
 housenumber: 272-302
-phone: "+64 9 295 1800"
-opening_hours: "Mo-Fr 07:00-19:00, Sa-Su 08:00-18:00"
+phone: +64 9 295 1800
+opening_hours: Mo-Fr 07:00-19:00, Sa-Su 08:00-18:00
 website: ""

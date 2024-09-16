@@ -1,11 +1,11 @@
 id: 443963603
-type: way
+type: node
 latitude: -43.54403
 longitude: 172.67049
 postcode: ""
 city: Christchurch
-street: "Ferry Road"
-housenumber: 465
-phone: "+64 3 389 4352"
-opening_hours: "Mo - Su 09:00 - 17:00"
-website: "https://www.portstone.co.nz/"
+street: Ferry Road
+housenumber: "465"
+phone: +64 3 389 4352
+opening_hours: Mo - Su 09:00 - 17:00
+website: https://www.portstone.co.nz/

@@ -1,11 +1,11 @@
 id: 873379161
-type: way
+type: node
 latitude: -39.94301
 longitude: 176.5879
 postcode: "4210"
 city: Waipawa
-street: "High Street"
-housenumber: 70
+street: High Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

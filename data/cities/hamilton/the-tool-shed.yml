@@ -1,11 +1,11 @@
 id: 242314006
-type: way
+type: node
 latitude: -37.78356
 longitude: 175.2753
 postcode: ""
 city: Hamilton
-street: "Angelsea Street"
-housenumber: 475
+street: Angelsea Street
+housenumber: "475"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
-website: "https://www.thetoolshed.co.nz/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
+website: https://www.thetoolshed.co.nz/

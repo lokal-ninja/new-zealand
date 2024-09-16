@@ -4,8 +4,8 @@ latitude: -41.28965
 longitude: 174.77428
 postcode: ""
 city: Wellington
-street: "Willis Street"
-housenumber: 140
-phone: "+64 4 385 0058"
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 10:00-16:00"
-website: "https://www.bello.co.nz/"
+street: Willis Street
+housenumber: "140"
+phone: +64 4 385 0058
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 10:00-16:00
+website: https://www.bello.co.nz/

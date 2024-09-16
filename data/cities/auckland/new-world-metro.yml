@@ -4,8 +4,8 @@ latitude: -36.84645
 longitude: 174.7658
 postcode: ""
 city: Auckland
-street: "Queen Street"
-housenumber: 125
-phone: "+64 9 300 5390"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 09:30-20:30"
-website: "https://www.newworld.co.nz/upper-north-island/auckland/metro-queen-street"
+street: Queen Street
+housenumber: "125"
+phone: +64 9 300 5390
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 09:30-20:30
+website: https://www.newworld.co.nz/upper-north-island/auckland/metro-queen-street

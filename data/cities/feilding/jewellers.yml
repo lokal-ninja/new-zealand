@@ -1,11 +1,11 @@
 id: 278747204
-type: way
+type: node
 latitude: -40.2269
 longitude: 175.56633
 postcode: ""
 city: Feilding
-street: "Fergusson Street"
-housenumber: 86
+street: Fergusson Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

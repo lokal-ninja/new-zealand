@@ -1,11 +1,11 @@
 id: 221576829
-type: way
+type: node
 latitude: -41.27369
 longitude: 173.28326
 postcode: ""
 city: Nelson
-street: "Trafalgar Street"
-housenumber: 232
+street: Trafalgar Street
+housenumber: "232"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-16:30"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su 10:00-16:30
 website: ""

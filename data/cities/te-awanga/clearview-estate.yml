@@ -1,11 +1,11 @@
 id: 554134644
-type: way
+type: node
 latitude: -39.63006
 longitude: 176.97084
 postcode: "4180"
 city: Te Awanga
-street: "Clifton Road"
-housenumber: 194
+street: Clifton Road
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.clearviewestate.co.nz/"
+website: https://www.clearviewestate.co.nz/

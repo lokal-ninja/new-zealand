@@ -1,11 +1,11 @@
 id: 223116086
-type: way
+type: node
 latitude: -41.27619
 longitude: 173.27473
 postcode: "7010"
 city: Nelson
-street: "St. Vincent Street"
-housenumber: 69
-phone: "+64 3 539 5000"
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-17:30"
+street: St. Vincent Street
+housenumber: "69"
+phone: +64 3 539 5000
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-17:30
 website: ""

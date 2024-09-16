@@ -4,8 +4,8 @@ latitude: -36.84943
 longitude: 174.76467
 postcode: "1010"
 city: Auckland
-street: "Darby Street"
-housenumber: 9
+street: Darby Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://recycleboutique.co.nz/"
+website: https://recycleboutique.co.nz/

@@ -1,11 +1,11 @@
 id: 1116476380
-type: way
+type: node
 latitude: -43.53942
 longitude: 172.60633
 postcode: "8011"
 city: Christchurch
-street: "Clarence Street"
+street: Clarence Street
 housenumber: 6B/66
-phone: "+64 03 348 1460"
-opening_hours: "Mo,Su 10:00-17:00; Tu-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://takingshape.com/NZ/storelocator/storedetails?slug=tower-junction"
+phone: +64 03 348 1460
+opening_hours: Mo,Su 10:00-17:00; Tu-Fr 09:00-17:30; Sa 09:00-17:00
+website: https://takingshape.com/NZ/storelocator/storedetails?slug=tower-junction

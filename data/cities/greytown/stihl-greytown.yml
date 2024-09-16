@@ -1,11 +1,11 @@
 id: 1000264741
-type: way
+type: node
 latitude: -41.08803
 longitude: 175.45133
 postcode: "5712"
 city: Greytown
-street: "Main Street"
-housenumber: 246
+street: Main Street
+housenumber: "246"
 phone: "+6463049661"
 opening_hours: ""
-website: "https://www.stihlshopgreytown.co.nz/"
+website: https://www.stihlshopgreytown.co.nz/

@@ -1,11 +1,11 @@
 id: 28806787
-type: way
+type: node
 latitude: -36.8559
 longitude: 174.73271
 postcode: ""
 city: Auckland
-street: "Westmoreland Street West"
-housenumber: 34
-phone: "+64 9 360 0499"
+street: Westmoreland Street West
+housenumber: "34"
+phone: +64 9 360 0499
 opening_hours: ""
-website: "http://www.farrofresh.co.nz/grey-lynn/"
+website: http://www.farrofresh.co.nz/grey-lynn/

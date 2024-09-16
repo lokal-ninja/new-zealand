@@ -1,11 +1,11 @@
 id: 475422770
-type: way
+type: node
 latitude: -40.85796
 longitude: 172.80603
 postcode: "7110"
 city: Tākaka
-street: "Commercial Street"
-housenumber: 65
-phone: "+64 3 525 8371"
+street: Commercial Street
+housenumber: "65"
+phone: +64 3 525 8371
 opening_hours: ""
-website: "https://www.zentec.co.nz/"
+website: https://www.zentec.co.nz/

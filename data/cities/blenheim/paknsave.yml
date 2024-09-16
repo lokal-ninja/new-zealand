@@ -1,11 +1,11 @@
 id: 398690653
-type: way
+type: node
 latitude: -41.50825
 longitude: 173.92377
 postcode: "7271"
 city: Blenheim
-street: "Westwood Avenue"
-housenumber: 1
-phone: "+64 3 520 8275"
-opening_hours: "Mo-Fr 07:00-22:00"
-website: "https://www.paknsave.co.nz/south-island/marlborough/blenheim/"
+street: Westwood Avenue
+housenumber: "1"
+phone: +64 3 520 8275
+opening_hours: Mo-Fr 07:00-22:00
+website: https://www.paknsave.co.nz/south-island/marlborough/blenheim/

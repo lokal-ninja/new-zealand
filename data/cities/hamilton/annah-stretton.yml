@@ -4,8 +4,8 @@ latitude: -37.78552
 longitude: 175.27951
 postcode: ""
 city: Hamilton
-street: "Barton Street"
-housenumber: 275
+street: Barton Street
+housenumber: "275"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Sa 10:00-16:00; Su 11:00-15:00"
-website: "https://www.annahstretton.co.nz/"
+opening_hours: Mo-Fr 09:30-17:00; Sa 10:00-16:00; Su 11:00-15:00
+website: https://www.annahstretton.co.nz/

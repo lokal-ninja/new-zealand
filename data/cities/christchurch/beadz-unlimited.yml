@@ -1,11 +1,11 @@
 id: 101162356
-type: way
+type: node
 latitude: -43.52955
 longitude: 172.63853
 postcode: "8011"
 city: Christchurch
-street: "New Regent Street"
-housenumber: 9
+street: New Regent Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

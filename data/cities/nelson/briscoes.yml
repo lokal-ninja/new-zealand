@@ -4,8 +4,8 @@ latitude: -41.27355
 longitude: 173.28115
 postcode: "7010"
 city: Nelson
-street: "Rutherford Street"
-housenumber: 73
-phone: "+64 3 548 1860"
-opening_hours: "Mo-Th 09:00-17:30; Fr-Sa 09:00-18:00"
-website: "https://www.briscoes.co.nz/"
+street: Rutherford Street
+housenumber: "73"
+phone: +64 3 548 1860
+opening_hours: Mo-Th 09:00-17:30; Fr-Sa 09:00-18:00
+website: https://www.briscoes.co.nz/

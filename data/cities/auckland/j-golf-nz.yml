@@ -4,8 +4,8 @@ latitude: -36.85922
 longitude: 174.7598
 postcode: "1010"
 city: Auckland
-street: "Canada Street"
-housenumber: 2
-phone: "+64 9 379 5729"
-opening_hours: "Mo-Fr 11:00-17:00; Sa,Su 10:00-17:00"
+street: Canada Street
+housenumber: "2"
+phone: +64 9 379 5729
+opening_hours: Mo-Fr 11:00-17:00; Sa,Su 10:00-17:00
 website: ""

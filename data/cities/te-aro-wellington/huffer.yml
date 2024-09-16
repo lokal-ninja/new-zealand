@@ -4,8 +4,9 @@ latitude: -41.29082
 longitude: 174.77689
 postcode: "6011"
 city: Te Aro, Wellington
-street: "Cuba Street"
-housenumber: 60
-phone: "+64 4 595 4526"
-opening_hours: "Mo-We 09:30-17:30; Th-Fr 09:30-18:00; Sa 09:30-17:30; Su 10:00-17:00; PH 10:00-16:30"
-website: "https://www.huffer.co.nz/"
+street: Cuba Street
+housenumber: "60"
+phone: +64 4 595 4526
+opening_hours: Mo-We 09:30-17:30; Th-Fr 09:30-18:00; Sa 09:30-17:30; Su 10:00-17:00;
+    PH 10:00-16:30
+website: https://www.huffer.co.nz/

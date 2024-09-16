@@ -1,11 +1,11 @@
 id: 1246195391
-type: way
+type: node
 latitude: -43.46017
 longitude: 172.62429
 postcode: "8051"
 city: Christchurch
-street: "Radcliffe Road"
-housenumber: 1
-phone: "+64 3 375 9800"
-opening_hours: "Mo-Su 09:00-17:30"
-website: "https://www.harveynorman.co.nz/"
+street: Radcliffe Road
+housenumber: "1"
+phone: +64 3 375 9800
+opening_hours: Mo-Su 09:00-17:30
+website: https://www.harveynorman.co.nz/

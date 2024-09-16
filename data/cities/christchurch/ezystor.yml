@@ -4,8 +4,8 @@ latitude: -43.48207
 longitude: 172.55556
 postcode: "8051"
 city: Christchurch
-street: "Russley Road"
-housenumber: 572
-phone: "0800 399 669"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; "
+street: Russley Road
+housenumber: "572"
+phone: 0800 399 669
+opening_hours: 'Mo-Fr 09:00-17:00; Sa 09:00-13:00; '
 website: ""

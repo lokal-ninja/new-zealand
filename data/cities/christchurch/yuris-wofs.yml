@@ -1,11 +1,11 @@
 id: 1303381263
-type: way
+type: node
 latitude: -43.489
 longitude: 172.59628
 postcode: ""
 city: Christchurch
-street: "Langdons Road"
-housenumber: 179
+street: Langdons Road
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

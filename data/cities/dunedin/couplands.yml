@@ -4,8 +4,8 @@ latitude: -45.89503
 longitude: 170.50647
 postcode: "9012"
 city: Dunedin
-street: "Andersons Bay Road"
-housenumber: 446
-phone: "+64 3 456 3541"
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.couplands.co.nz"
+street: Andersons Bay Road
+housenumber: "446"
+phone: +64 3 456 3541
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.couplands.co.nz

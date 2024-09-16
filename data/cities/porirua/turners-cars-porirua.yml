@@ -1,11 +1,11 @@
 id: 1143866815
-type: way
+type: node
 latitude: -41.13511
 longitude: 174.83335
 postcode: "5022"
 city: Porirua
-street: "John Seddon Drive"
-housenumber: 9
+street: John Seddon Drive
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1013662912
-type: way
+type: node
 latitude: -40.85776
 longitude: 172.80609
 postcode: "7110"
 city: Takaka
-street: "Commercial Street"
-housenumber: 71
-phone: "+64 3 525 8177"
+street: Commercial Street
+housenumber: "71"
+phone: +64 3 525 8177
 opening_hours: ""
-website: "https://www.stitchnsew.co.nz/"
+website: https://www.stitchnsew.co.nz/

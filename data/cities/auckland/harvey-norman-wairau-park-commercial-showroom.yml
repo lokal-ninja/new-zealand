@@ -1,11 +1,11 @@
 id: 321088454
-type: way
+type: node
 latitude: -36.76924
 longitude: 174.73929
 postcode: "0627"
 city: Auckland
-street: "Croftfield Lane"
-housenumber: 10
-phone: "09 440 6417"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.harveynormancommercial.nz/"
+street: Croftfield Lane
+housenumber: "10"
+phone: 09 440 6417
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.harveynormancommercial.nz/

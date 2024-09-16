@@ -1,11 +1,11 @@
 id: 125611985
-type: way
+type: node
 latitude: -41.25514
 longitude: 174.76627
 postcode: ""
 city: Wellington
-street: "Churchill Drive"
-housenumber: 128
+street: Churchill Drive
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

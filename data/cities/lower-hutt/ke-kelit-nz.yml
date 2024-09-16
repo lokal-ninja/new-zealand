@@ -4,8 +4,8 @@ latitude: -41.20118
 longitude: 174.94336
 postcode: "5011"
 city: Lower Hutt
-street: "Gregory Street"
-housenumber: 12
+street: Gregory Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.kekelit.co.nz/"
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.kekelit.co.nz/

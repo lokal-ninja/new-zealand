@@ -4,8 +4,8 @@ latitude: -37.79227
 longitude: 175.29275
 postcode: ""
 city: Hamilton
-street: "Grey Street"
-housenumber: 423
-phone: "+64 7 856 9082"
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su 10:00-14:00"
-website: "https://hazelwoodprint.co.nz/"
+street: Grey Street
+housenumber: "423"
+phone: +64 7 856 9082
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su 10:00-14:00
+website: https://hazelwoodprint.co.nz/

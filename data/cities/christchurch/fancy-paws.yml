@@ -4,8 +4,8 @@ latitude: -43.47753
 longitude: 172.6171
 postcode: "8051"
 city: Christchurch
-street: "Main North Road"
-housenumber: 290
+street: Main North Road
+housenumber: "290"
 phone: "+6433529988"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://fancypaws.co.nz"
+opening_hours: Mo-Fr 09:00-17:00
+website: http://fancypaws.co.nz

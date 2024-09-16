@@ -1,11 +1,11 @@
 id: 372801598
-type: way
+type: node
 latitude: -39.48814
 longitude: 176.91788
 postcode: "4110"
 city: Napier
-street: "Shakespeare Road"
-housenumber: 1
+street: Shakespeare Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

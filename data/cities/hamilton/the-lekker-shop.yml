@@ -1,11 +1,11 @@
 id: 337781725
-type: way
+type: node
 latitude: -37.80531
 longitude: 175.26187
 postcode: ""
 city: Hamilton
-street: "Grasslands Place"
-housenumber: 1
+street: Grasslands Place
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.lekker.co.nz/"
+website: http://www.lekker.co.nz/

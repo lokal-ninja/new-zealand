@@ -1,11 +1,11 @@
 id: 1120289597
-type: way
+type: node
 latitude: -41.27532
 longitude: 173.28282
 postcode: "7010"
 city: Nelson
-street: "Trafalgar Square"
-housenumber: 320
-phone: "+64 3 548 0640"
+street: Trafalgar Square
+housenumber: "320"
+phone: +64 3 548 0640
 opening_hours: ""
-website: "https://www.jenshansen.com/"
+website: https://www.jenshansen.com/

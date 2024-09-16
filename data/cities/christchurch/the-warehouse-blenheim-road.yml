@@ -1,11 +1,11 @@
 id: 213191638
-type: way
+type: node
 latitude: -43.53868
 longitude: 172.58359
 postcode: ""
 city: Christchurch
-street: "Blenheim Road"
-housenumber: 265
+street: Blenheim Road
+housenumber: "265"
 phone: ""
-opening_hours: "Mo-Su 08:00-24:00"
+opening_hours: Mo-Su 08:00-24:00
 website: ""

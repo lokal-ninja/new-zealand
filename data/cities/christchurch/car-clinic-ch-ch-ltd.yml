@@ -1,11 +1,11 @@
 id: 420979371
-type: way
+type: node
 latitude: -43.54455
 longitude: 172.59272
 postcode: "8024"
 city: Christchurch
-street: "Birmingham Drive"
-housenumber: 8
-phone: "+64 3 339 0018"
+street: Birmingham Drive
+housenumber: "8"
+phone: +64 3 339 0018
 opening_hours: ""
 website: ""

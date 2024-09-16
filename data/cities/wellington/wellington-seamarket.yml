@@ -4,8 +4,8 @@ latitude: -41.28101
 longitude: 174.7757
 postcode: "6011"
 city: Wellington
-street: "Lambton Quay"
-housenumber: 146
+street: Lambton Quay
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:30, Fr 09:30-19:00"
-website: "https://www.wellingtonseamarket.com/contactlambtonquay"
+opening_hours: Mo-Th 09:30-18:30, Fr 09:30-19:00
+website: https://www.wellingtonseamarket.com/contactlambtonquay

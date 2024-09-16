@@ -1,11 +1,11 @@
 id: 836375246
-type: way
+type: node
 latitude: -40.90588
 longitude: 175.00177
 postcode: "5032"
 city: Paraparaumu
-street: "Manchester Street"
-housenumber: 12
+street: Manchester Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

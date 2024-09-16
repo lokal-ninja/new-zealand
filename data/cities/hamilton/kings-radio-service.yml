@@ -1,11 +1,11 @@
 id: 244011546
-type: way
+type: node
 latitude: -37.78055
 longitude: 175.27511
 postcode: ""
 city: Hamilton
-street: "Harwood Street"
-housenumber: 36
+street: Harwood Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "http://www.kingsradio.co.nz/"
+website: http://www.kingsradio.co.nz/

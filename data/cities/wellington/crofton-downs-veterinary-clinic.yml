@@ -1,11 +1,11 @@
 id: 125611989
-type: way
+type: node
 latitude: -41.25389
 longitude: 174.76652
 postcode: ""
 city: Wellington
-street: "Thatcher Crescent"
-housenumber: 4
+street: Thatcher Crescent
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

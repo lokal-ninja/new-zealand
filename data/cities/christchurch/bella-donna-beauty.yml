@@ -4,8 +4,9 @@ latitude: -43.47936
 longitude: 172.69202
 postcode: "8083"
 city: Christchurch
-street: "Mairehau Road"
-housenumber: 345
-phone: "+64 022 428 4321"
-opening_hours: "Mo 11:00-16:00; Tu 09:00-17:00; 00; We 10:30-20:00; Th 13:00-20:00; Fr 09:00-17:00; Sa 09:30-15:00; Su 11:00-17:00"
+street: Mairehau Road
+housenumber: "345"
+phone: +64 022 428 4321
+opening_hours: Mo 11:00-16:00; Tu 09:00-17:00; 00; We 10:30-20:00; Th 13:00-20:00;
+    Fr 09:00-17:00; Sa 09:30-15:00; Su 11:00-17:00
 website: ""

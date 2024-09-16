@@ -1,11 +1,11 @@
 id: 321088414
-type: way
+type: node
 latitude: -36.77065
 longitude: 174.73989
 postcode: "0627"
 city: Auckland
-street: "Wairau Road"
-housenumber: 155
-phone: "09 399 2670"
-opening_hours: "Mo-Fr 08:30-17:00 Sat 09:00-17:00 Sun 10:00-16:00"
-website: "http://www.andrewsimms.co.nz/"
+street: Wairau Road
+housenumber: "155"
+phone: 09 399 2670
+opening_hours: Mo-Fr 08:30-17:00 Sat 09:00-17:00 Sun 10:00-16:00
+website: https://www.andrewsimms.co.nz/

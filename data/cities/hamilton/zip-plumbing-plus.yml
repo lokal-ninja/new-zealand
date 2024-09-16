@@ -1,11 +1,11 @@
 id: 291098470
-type: way
+type: node
 latitude: -37.78884
 longitude: 175.27013
 postcode: ""
 city: Hamilton
-street: "Somerset Street"
-housenumber: 27
+street: Somerset Street
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-13:00"
-website: "http://www.zipplumbingplus.co.nz/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-13:00
+website: http://www.zipplumbingplus.co.nz/

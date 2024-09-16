@@ -1,11 +1,11 @@
 id: 148782011
-type: way
+type: node
 latitude: -39.49463
 longitude: 176.91273
 postcode: "4110"
 city: Napier
-street: "Munroe Street"
-housenumber: 25
-phone: "+64 6 834 3450"
+street: Munroe Street
+housenumber: "25"
+phone: +64 6 834 3450
 opening_hours: ""
-website: "https://www.paknsave.co.nz/lower-north-island/hawkes-bay/napier"
+website: https://www.paknsave.co.nz/lower-north-island/hawkes-bay/napier

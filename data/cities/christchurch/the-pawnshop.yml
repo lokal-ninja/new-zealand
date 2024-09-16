@@ -1,11 +1,11 @@
 id: 101776007
-type: way
+type: node
 latitude: -43.53757
 longitude: 172.64808
 postcode: "8011"
 city: Christchurch
-street: "Ferry Road"
-housenumber: 77
+street: Ferry Road
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 237795604
-type: way
+type: node
 latitude: -37.7711
 longitude: 175.28283
 postcode: ""
 city: Hamilton
-street: "Heaphy Terrace"
-housenumber: 1030
+street: Heaphy Terrace
+housenumber: "1030"
 phone: ""
-opening_hours: "Mo-Su 07:30-20:00"
+opening_hours: Mo-Su 07:30-20:00
 website: ""

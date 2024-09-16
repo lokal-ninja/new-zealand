@@ -1,11 +1,11 @@
 id: 334987756
-type: way
+type: node
 latitude: -37.76454
 longitude: 175.25169
 postcode: "3200"
 city: Hamilton
-street: "Te Rapa Road"
-housenumber: 403
-phone: "+64 7 838 1209"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-14:00; Su,PH off"
-website: "https://boydmotorcycles.co.nz/"
+street: Te Rapa Road
+housenumber: "403"
+phone: +64 7 838 1209
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-14:00; Su,PH off
+website: https://boydmotorcycles.co.nz/

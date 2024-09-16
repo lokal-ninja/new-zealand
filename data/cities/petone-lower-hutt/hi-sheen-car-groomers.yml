@@ -1,11 +1,11 @@
 id: 1001945624
-type: way
+type: node
 latitude: -41.22037
 longitude: 174.87962
 postcode: "5012"
 city: Petone, Lower Hutt
-street: "Udy Street"
-housenumber: 4
+street: Udy Street
+housenumber: "4"
 phone: "+6445698975"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.carcleanlowerhutt.co.nz/"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.carcleanlowerhutt.co.nz/

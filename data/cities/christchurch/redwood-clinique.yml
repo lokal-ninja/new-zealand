@@ -1,11 +1,11 @@
 id: 442024828
-type: way
+type: node
 latitude: -43.47251
 longitude: 172.6176
 postcode: "8051"
 city: Christchurch
-street: "Main North Road"
-housenumber: 400
+street: Main North Road
+housenumber: "400"
 phone: "+643521541"
 opening_hours: ""
 website: ""

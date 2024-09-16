@@ -1,11 +1,11 @@
 id: 62260397
-type: way
+type: node
 latitude: -36.91408
 longitude: 174.92884
 postcode: "2014"
 city: Auckland
-street: "Whitford Road"
-housenumber: 112
+street: Whitford Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.meadowlands.co.nz/"
+website: https://www.meadowlands.co.nz/

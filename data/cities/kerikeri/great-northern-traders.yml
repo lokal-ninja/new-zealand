@@ -1,11 +1,11 @@
 id: 366243697
-type: way
+type: node
 latitude: -35.23255
 longitude: 173.95383
 postcode: "0230"
 city: Kerikeri
-street: "Cobham Road"
-housenumber: 
+street: Cobham Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.gnt.co.nz/"
+website: https://www.gnt.co.nz/

@@ -1,11 +1,11 @@
 id: 398114257
-type: way
+type: node
 latitude: -42.44996
 longitude: 171.20676
 postcode: "7805"
 city: Greymouth
-street: "Herbert Street"
-housenumber: 12
+street: Herbert Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.coast.toyota.co.nz"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.coast.toyota.co.nz

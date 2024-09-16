@@ -1,11 +1,11 @@
 id: 376394288
-type: way
+type: node
 latitude: -42.39601
 longitude: 173.67898
 postcode: "7300"
 city: Kaikoura
-street: "Beach Road"
-housenumber: 42
+street: Beach Road
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Su 05:00-24:00"
+opening_hours: Mo-Su 05:00-24:00
 website: ""

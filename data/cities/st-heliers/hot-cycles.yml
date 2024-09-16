@@ -1,11 +1,11 @@
 id: 319523090
-type: way
+type: node
 latitude: -36.85463
 longitude: 174.85151
 postcode: "1071"
 city: St Heliers
-street: "Long Drive"
-housenumber: 46
+street: Long Drive
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

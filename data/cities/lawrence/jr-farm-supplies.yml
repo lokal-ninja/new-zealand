@@ -1,11 +1,11 @@
 id: 386734464
-type: way
+type: node
 latitude: -45.91279
 longitude: 169.68887
 postcode: "9532"
 city: Lawrence
-street: "Ross Place"
-housenumber: 2
+street: Ross Place
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/profile.php?id=100041233346199"
+website: https://www.facebook.com/profile.php?id=100041233346199

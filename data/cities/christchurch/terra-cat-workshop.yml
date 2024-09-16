@@ -1,11 +1,11 @@
 id: 681109996
-type: way
+type: node
 latitude: -43.54773
 longitude: 172.52592
 postcode: "8042"
 city: Christchurch
-street: "Branston Street"
-housenumber: 16
+street: Branston Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

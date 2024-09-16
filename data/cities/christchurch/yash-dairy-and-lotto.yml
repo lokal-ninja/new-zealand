@@ -1,11 +1,11 @@
 id: 158488686
-type: way
+type: node
 latitude: -43.54478
 longitude: 172.67072
 postcode: "8023"
 city: Christchurch
-street: "Ferry Road"
-housenumber: 448
-phone: "+64 3 381 0803"
-opening_hours: "Mo-Fr 05:30-20:30; Sa 06:30-20:30; Su 07:30-20:00"
+street: Ferry Road
+housenumber: "448"
+phone: +64 3 381 0803
+opening_hours: Mo-Fr 05:30-20:30; Sa 06:30-20:30; Su 07:30-20:00
 website: ""

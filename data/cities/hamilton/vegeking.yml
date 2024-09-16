@@ -1,11 +1,11 @@
 id: 354272115
-type: way
+type: node
 latitude: -37.77206
 longitude: 175.28315
 postcode: ""
 city: Hamilton
-street: "Heaphy Terrace"
-housenumber: 985
+street: Heaphy Terrace
+housenumber: "985"
 phone: ""
 opening_hours: ""
-website: "http://www.vegeking.co.nz/"
+website: http://www.vegeking.co.nz/

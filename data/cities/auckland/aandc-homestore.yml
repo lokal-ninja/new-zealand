@@ -4,8 +4,8 @@ latitude: -36.813
 longitude: 174.72797
 postcode: "0626"
 city: Auckland
-street: "Enterprise Street"
-housenumber: 7
-phone: "+64 9 2822176"
-opening_hours: "Mo-Sa 09:00-17:-00 Su 09:00-16:00"
-website: "https://www.achomestore.co.nz/"
+street: Enterprise Street
+housenumber: "7"
+phone: +64 9 2822176
+opening_hours: Mo-Sa 09:00-17:-00 Su 09:00-16:00
+website: https://www.achomestore.co.nz/

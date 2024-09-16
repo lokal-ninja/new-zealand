@@ -1,11 +1,11 @@
 id: 404179781
-type: way
+type: node
 latitude: -40.67649
 longitude: 172.68222
 postcode: "7073"
 city: Collingwood
-street: "Tasman Street"
-housenumber: 12
+street: Tasman Street
+housenumber: "12"
 phone: "+6435248221"
-opening_hours: "Su-Fr 08:00-18:00; Sa 08:00-19:00"
-website: "https://www.onthespot.co.nz/store-locations/on-the-spot-collingwood-general-store/"
+opening_hours: Su-Fr 08:00-18:00; Sa 08:00-19:00
+website: https://www.onthespot.co.nz/store-locations/on-the-spot-collingwood-general-store/

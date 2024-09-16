@@ -1,11 +1,11 @@
 id: 1259517685
-type: way
+type: node
 latitude: -43.50712
 longitude: 172.6643
 postcode: "8061"
 city: Christchurch
-street: "Marshland Road"
+street: Marshland Road
 housenumber: 19-21
-phone: "+64 3 385 0650"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://www.stirlingsports.co.nz/"
+phone: +64 3 385 0650
+opening_hours: Mo-We 09:00-18:00; Th 09:00-21:00; Fr-Sa 09:00-18:00; Su 10:00-18:00
+website: https://www.stirlingsports.co.nz/

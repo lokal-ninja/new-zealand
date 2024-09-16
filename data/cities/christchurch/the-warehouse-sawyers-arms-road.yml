@@ -1,11 +1,11 @@
 id: 160564057
-type: way
+type: node
 latitude: -43.49086
 longitude: 172.61191
 postcode: "8053"
 city: Christchurch
-street: "Sawyers Arms Road"
-housenumber: 
+street: Sawyers Arms Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-00:00"
+opening_hours: Mo-Su 08:00-00:00
 website: ""

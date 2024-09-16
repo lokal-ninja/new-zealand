@@ -4,8 +4,8 @@ latitude: -43.52586
 longitude: 172.63236
 postcode: "8013"
 city: Christchurch
-street: "Victoria Street"
-housenumber: 65
+street: Victoria Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://thirstyliquorvictoriast.co.nz/"
+website: https://thirstyliquorvictoriast.co.nz/

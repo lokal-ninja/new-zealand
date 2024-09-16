@@ -4,8 +4,8 @@ latitude: -41.27263
 longitude: 173.2829
 postcode: "7010"
 city: Nelson
-street: "Bridge Street"
-housenumber: 42
-phone: "+64 3 548 4667"
-opening_hours: "Mo 10:00-17:00; Tu-Fr 10:00-17:30; Sa 10:00-15:00; Su 11:00-15:00"
-website: "https://www.gizmosnelson.com/"
+street: Bridge Street
+housenumber: "42"
+phone: +64 3 548 4667
+opening_hours: Mo 10:00-17:00; Tu-Fr 10:00-17:30; Sa 10:00-15:00; Su 11:00-15:00
+website: https://www.gizmosnelson.com/

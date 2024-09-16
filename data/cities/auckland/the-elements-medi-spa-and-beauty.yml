@@ -4,8 +4,8 @@ latitude: -36.81285
 longitude: 174.72736
 postcode: ""
 city: Auckland
-street: "Hinemoa Street"
-housenumber: 223
-phone: "+64 09 480 7563"
-opening_hours: "Tu 09:00-18:00; We,Th 09:00-20:00; Fr 09:00-17:00, Sa 09:00-16:00"
-website: "https://www.theelementsspa.co.nz/"
+street: Hinemoa Street
+housenumber: "223"
+phone: +64 09 480 7563
+opening_hours: Tu 09:00-18:00; We,Th 09:00-20:00; Fr 09:00-17:00, Sa 09:00-16:00
+website: https://www.theelementsspa.co.nz/

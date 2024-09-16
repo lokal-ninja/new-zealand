@@ -4,8 +4,8 @@ latitude: -37.78488
 longitude: 175.27887
 postcode: ""
 city: Hamilton
-street: "Casabella Lane"
-housenumber: 1
+street: Casabella Lane
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa,Su 10:00-16:00"
-website: "https://www.sills-and-co.com/"
+opening_hours: Mo-Fr 09:30-17:30; Sa,Su 10:00-16:00
+website: https://www.sills-and-co.com/

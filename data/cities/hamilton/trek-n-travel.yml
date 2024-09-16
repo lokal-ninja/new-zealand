@@ -4,8 +4,8 @@ latitude: -37.78878
 longitude: 175.28421
 postcode: "3204"
 city: Hamilton
-street: "Victoria Street"
-housenumber: 221
-phone: "+64 7-839 5681"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://www.trekntravel.co.nz/"
+street: Victoria Street
+housenumber: "221"
+phone: +64 7-839 5681
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://www.trekntravel.co.nz/
