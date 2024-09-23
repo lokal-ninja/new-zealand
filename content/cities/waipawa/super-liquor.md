@@ -1,5 +1,5 @@
 ---
 title: "Super Liquor"
-url: /dunedin/super-liquor/
+url: /waipawa/super-liquor/
 shop: alcohol
 ---

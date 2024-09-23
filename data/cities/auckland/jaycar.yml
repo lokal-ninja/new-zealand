@@ -1,11 +1,12 @@
-id: 7716416949
+id: 4603211291
 type: node
-latitude: -36.76792
-longitude: 174.73774
-postcode: "0627"
+latitude: -36.90249
+longitude: 174.68997
+postcode: "600"
 city: Auckland
-street: Link Drive
-housenumber: 6A
-phone: 09 444 4628
-opening_hours: Mo-We 08:30-17:30 Thur 08:30-18:30 Sat 09:00-17:00 Sun 10:00-16:00
+street: Great North Road
+housenumber: "2171"
+phone: "098288096"
+opening_hours: Mo-We 08:30-17:30; Th 08:30-18:30; Fr 08:30-17:30; Sa 09:00-17:00;
+    Su 10:00-16:00
 website: https://jaycar.co.nz

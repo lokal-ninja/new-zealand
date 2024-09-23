@@ -1,5 +1,5 @@
 ---
-title: "Bed Bath and Beyond"
+title: "Bed Bath & Beyond"
 url: /tauranga/bed-bath-and-beyond/
-shop: interior decoration
+shop: houseware
 ---
