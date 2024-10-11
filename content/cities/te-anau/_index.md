@@ -1,6 +1,6 @@
 ---
 title: Te Anau
 url: /te-anau/
-latitude: -45.413
-longitude: 167.731
+latitude: -45.412
+longitude: 167.721
 ---
