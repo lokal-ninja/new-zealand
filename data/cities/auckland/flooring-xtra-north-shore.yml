@@ -7,5 +7,5 @@ city: Auckland
 street: Link Drive
 housenumber: "14"
 phone: 09 447 1414
-opening_hours: Mo-Fr 09:00-17:00 Sa 09:00-15:00 Su 10:00-15:00
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su 10:00-15:00
 website: https://www.flooringxtra.co.nz/

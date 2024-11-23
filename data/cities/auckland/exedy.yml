@@ -7,5 +7,5 @@ city: Auckland
 street: Wairau Road
 housenumber: "151"
 phone: 09 444 0901
-opening_hours: Mo-Fr 08:00-17:00 Sat 09:00-12:00
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
 website: https://www.exedy.co.nz/

@@ -7,5 +7,5 @@ city: Auckland
 street: Target Road
 housenumber: "146"
 phone: 09 442 3600
-opening_hours: Mo-Fr 07:30-17:00 Sa 09:00-12:00
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-12:00
 website: https://ntsparts.com/

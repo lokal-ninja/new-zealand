@@ -7,5 +7,5 @@ city: Auckland
 street: Link Drive
 housenumber: "3"
 phone: 09 444 5155
-opening_hours: Mo-Fr 06:30-17:00 Sat 08:00-16:00
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-16:00
 website: https://www.placemakers.co.nz/online/
