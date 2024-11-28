@@ -7,5 +7,5 @@ city: Hastings
 street: Market Street North
 housenumber: "301"
 phone: ""
-opening_hours: Mo-Fr 07:00-18:00 Sa-Su 08:00-18:00
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00
 website: https://www.bunnings.co.nz/

@@ -7,5 +7,5 @@ city: Auckland
 street: Archers Road
 housenumber: 253a
 phone: 09 600 3028
-opening_hours: Mo-Fr 09:00-17:00 Sa 09:00-13:00
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

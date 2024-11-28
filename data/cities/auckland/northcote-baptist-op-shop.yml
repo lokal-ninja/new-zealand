@@ -7,5 +7,5 @@ city: Auckland
 street: Pearn Place
 housenumber: "38"
 phone: +64 21 0440295
-opening_hours: Mo-Fr 09:30-17:00 Sa 09:30-15:30
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-15:30
 website: ""

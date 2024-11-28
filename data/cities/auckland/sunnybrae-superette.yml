@@ -7,5 +7,5 @@ city: Auckland
 street: View Road
 housenumber: "101"
 phone: "098389707"
-opening_hours: Mo-Sa 07:00-19:30 Sunday 24/7
+opening_hours: Mo-Sa 07:00-19:30; Su 24/7
 website: ""

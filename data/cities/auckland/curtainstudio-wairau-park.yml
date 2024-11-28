@@ -7,5 +7,5 @@ city: Auckland
 street: Croftfield Lane
 housenumber: "9"
 phone: 09 444 2617
-opening_hours: Mo-Fr 09:00-17:00 Sat 10:00-16:00
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
 website: https://www.curtainstudio.co.nz/

@@ -7,5 +7,5 @@ city: Auckland
 street: Hinemoa Street
 housenumber: 142A
 phone: +64 27 4901969
-opening_hours: Tu-Th 09:00-16:00 Fr 09:00-17:00 Sa 09:00-14:00
+opening_hours: Tu-Th 09:00-16:00; Fr 09:00-17:00; Sa 09:00-14:00
 website: https://www.botanics.nz/
