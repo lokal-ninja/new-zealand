@@ -1,5 +1,5 @@
 ---
-title: "Mainland Resene Colorshop"
+title: "Mainland Resene ColorShop"
 url: /christchurch/mainland-resene-colorshop/
 shop: paint
 ---
