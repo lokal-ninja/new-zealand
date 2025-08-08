@@ -1,6 +1,6 @@
 ---
 title: Mount Maunganui
 url: /mount-maunganui/
-latitude: -37.677
-longitude: 176.222
+latitude: -37.646
+longitude: 176.187
 ---
