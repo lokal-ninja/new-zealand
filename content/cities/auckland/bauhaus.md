@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /auckland/bauhaus/
-shop: interior decoration
+shop: furniture
 ---
