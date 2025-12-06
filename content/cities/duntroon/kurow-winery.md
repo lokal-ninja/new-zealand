@@ -1,5 +1,5 @@
 ---
 title: "Kurow Winery"
-url: /kurow/kurow-winery/
+url: /duntroon/kurow-winery/
 shop: wine
 ---
