@@ -1,5 +1,5 @@
 ---
 title: "Moko Artspace"
-url: /hot-water-beach/moko-artspace/
+url: /whitianga/moko-artspace/
 shop: gift
 ---

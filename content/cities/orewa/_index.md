@@ -1,6 +1,6 @@
 ---
 title: Ōrewa
 url: /orewa/
-latitude: -36.588
-longitude: 174.695
+latitude: -36.587
+longitude: 174.694
 ---

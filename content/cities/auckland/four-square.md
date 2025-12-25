@@ -1,5 +1,5 @@
 ---
 title: "Four Square"
 url: /auckland/four-square/
-shop: convenience
+shop: supermarket
 ---
