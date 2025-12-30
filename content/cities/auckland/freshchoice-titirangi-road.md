@@ -1,5 +1,5 @@
 ---
 title: "FreshChoice"
-url: /auckland/freshchoice-west-coast-road/
+url: /auckland/freshchoice-titirangi-road/
 shop: supermarket
 ---
