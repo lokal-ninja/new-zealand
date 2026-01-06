@@ -1,5 +1,5 @@
 ---
 title: "PAK'nSAVE"
-url: /auckland/paknsave-apirana-avenue/
+url: /rolleston/paknsave/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Auckland
 url: /auckland/
-latitude: -36.85
-longitude: 174.765
+latitude: -36.907
+longitude: 174.691
 ---
