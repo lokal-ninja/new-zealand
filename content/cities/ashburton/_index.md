@@ -1,6 +1,6 @@
 ---
 title: Ashburton
 url: /ashburton/
-latitude: -43.903
-longitude: 171.753
+latitude: -43.899
+longitude: 171.756
 ---
