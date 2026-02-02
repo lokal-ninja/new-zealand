@@ -1,6 +1,6 @@
 ---
 title: Masterton
 url: /masterton/
-latitude: -40.943
-longitude: 175.67
+latitude: -40.961
+longitude: 175.637
 ---

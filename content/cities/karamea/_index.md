@@ -1,6 +1,6 @@
 ---
 title: Karamea
 url: /karamea/
-latitude: -41.251
-longitude: 172.128
+latitude: -41.252
+longitude: 172.129
 ---

@@ -1,6 +1,6 @@
 ---
 title: Motueka
 url: /motueka/
-latitude: -41.109
-longitude: 173.011
+latitude: -41.114
+longitude: 173.01
 ---

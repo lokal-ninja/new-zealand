@@ -1,6 +1,6 @@
 ---
 title: Palmerston North
 url: /palmerston-north/
-latitude: -40.418
-longitude: 175.593
+latitude: -40.356
+longitude: 175.613
 ---
