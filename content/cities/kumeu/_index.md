@@ -1,6 +1,6 @@
 ---
 title: Kumeū
 url: /kumeu/
-latitude: -36.787
-longitude: 174.583
+latitude: -36.776
+longitude: 174.557
 ---
