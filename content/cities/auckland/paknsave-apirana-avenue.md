@@ -1,5 +1,5 @@
 ---
 title: "PAK'nSAVE"
-url: /auckland/paknsave-universal-drive/
+url: /auckland/paknsave-apirana-avenue/
 shop: supermarket
 ---
