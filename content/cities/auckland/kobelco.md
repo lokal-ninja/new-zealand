@@ -1,5 +1,5 @@
 ---
 title: "Kobelco"
-url: /takanini/kobelco/
+url: /auckland/kobelco/
 shop: shop
 ---
