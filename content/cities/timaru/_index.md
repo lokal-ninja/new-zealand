@@ -1,6 +1,6 @@
 ---
 title: Timaru
 url: /timaru/
-latitude: -44.382
-longitude: 171.238
+latitude: -44.393
+longitude: 171.25
 ---
