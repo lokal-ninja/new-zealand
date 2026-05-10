@@ -1,6 +1,6 @@
 ---
 title: Napier
 url: /napier/
-latitude: -39.538
-longitude: 176.848
+latitude: -39.535
+longitude: 176.849
 ---
