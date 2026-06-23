@@ -1,5 +1,5 @@
 ---
-title: "PETstock"
+title: "Petstock"
 url: /christchurch/petstock/
 shop: pet
 ---
