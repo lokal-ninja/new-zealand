@@ -1,6 +1,6 @@
 ---
 title: Putāruru
 url: /putaruru/
-latitude: -38.052
-longitude: 175.779
+latitude: -38.051
+longitude: 175.78
 ---
