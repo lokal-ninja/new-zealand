@@ -1,5 +1,5 @@
 ---
-title: "Cafe Anatolia"
+title: "Café Anatolia"
 url: /napier/cafe-anatolia/
-shop: vacant
+shop: clothes
 ---
