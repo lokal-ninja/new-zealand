@@ -1,6 +1,6 @@
 ---
 title: Tokoroa
 url: /tokoroa/
-latitude: -38.219
-longitude: 175.87
+latitude: -38.215
+longitude: 175.868
 ---
