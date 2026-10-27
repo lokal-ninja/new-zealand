@@ -1,5 +1,5 @@
 ---
 title: "EGIFTS"
-url: /auckland/egifts-st-lukes-road/
+url: /auckland/egifts-don-mckinnon-drive/
 shop: mobile phone
 ---
