@@ -1,6 +1,6 @@
 ---
 title: Dunedin
 url: /dunedin/
-latitude: -45.862
-longitude: 170.51
+latitude: -45.872
+longitude: 170.505
 ---
